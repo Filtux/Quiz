@@ -1,6 +1,10 @@
 import pyautogui as py
+import time
 
 def performMovements():
+    py.moveTo(400, 745)
+    py.click()
+    time.sleep(3)
     py.moveTo(604, 333)
     py.click()
     py.moveTo(522, 357)
@@ -24,3 +28,4 @@ def performMovements():
     py.moveTo(350, 410)
     py.click()
     py.moveTo(900, 686)
+    py.click()

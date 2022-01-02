@@ -45,4 +45,10 @@ def modify(message):
 @bot.message_handler(["loadGame"])
 def loadGame(message):
   tl.performMovements()
+
+@bot.message_handler(["ff"])
+def fastestFinger(message):
+  qf.fastestFinger()
+  qf.returnToGo()
+
 bot.polling()
