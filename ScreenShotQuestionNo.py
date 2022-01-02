@@ -16,7 +16,7 @@ def runScreenShot():
     #image.show()
   
     # To save the screenshot
-    image.save("C:\Users\Administrator\Desktop\Quiz\CurrentQuestionNumber.png")
+    image.save(r"C:\Users\Administrator\Desktop\Quiz\CurrentQuestionNumber.png")
 
     textFromImage = pyt.image_to_string(r'C:\PythonScripts\Quiz\CurrentQuestionNumber.png')
 
@@ -43,5 +43,5 @@ def runScreenShot():
         qf.exitBuzzerManager()
         qf.returnToGo()
 
-
+        
 

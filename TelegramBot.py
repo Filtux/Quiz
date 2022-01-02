@@ -3,6 +3,7 @@ import telebot
 import QuizFunctions as qf
 import pyscreenshot
 import ScreenShotQuestionNo as ss
+import QuizInitialTestLoad as tl
 
 API_KEY = '5079172619:AAHCary8yVpgIOKcsxrJuQWv4h8ApxPhtww'
 
@@ -41,4 +42,7 @@ def modify(message):
   bot.send_photo(message.chat.id, teamScoreImage)
 #  ss.runScreenShot()
 
+@bot.message_handler(["loadGame"])
+def loadGame(message):
+  tl.performMovements()
 bot.polling()
