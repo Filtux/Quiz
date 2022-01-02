@@ -18,7 +18,7 @@ def runScreenShot():
     # To save the screenshot
     image.save("C:\Users\Administrator\Desktop\Quiz\CurrentQuestionNumber.png")
 
-#    textFromImage = pyt.image_to_string(r'C:\PythonScripts\Quiz\CurrentQuestionNumber.png')
+    textFromImage = pyt.image_to_string(r'C:\PythonScripts\Quiz\CurrentQuestionNumber.png')
 
     if 'Question 5' in textFromImage:
         #Run the sequence to open a team, alter points with modifier

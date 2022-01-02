@@ -1,21 +1,28 @@
 import re
+import os
 
-file = r'C:\Users\Joe\Desktop\Log\Test Venue_Log - Copy.txt'
+directory = r"C:\Users\Joe\Desktop\Log"
 
-checkWords = ("Domanda","Corretta","Tasto","Secondi","P.ti Question","P.ti Totali")
-repWords = ("Question","Correct","Pressed","Seconds","Question Points","Total")
+for fileName in os.listdir(directory):
+    
+    file = r'C:\\Users\\Joe\\Desktop\\Log\\' + fileName
 
-originalFile = open(file, 'r')
-originalData = originalFile.readlines()
+    print(file)
 
-newFile = open(r'C:\Users\Joe\Desktop\Log\TestLog.txt', 'w')
+    checkWords = ("Domanda","Corretta","Tasto","Nome","Secondi","P.ti Question","P.ti Totali")
+    repWords = ("Question","Correct","Pressed","Name","Seconds","Question Points","Total")
 
-for line in originalData:
+    originalFile = open(file, 'r')
+    originalData = originalFile.readlines()
 
-    for check, replace in zip(checkWords, repWords):
-        line = line.replace(check, replace)
+    newFile = open(r'C:\\Users\\Joe\\Desktop\\Log\\' + fileName, 'w')
 
-    newFile.write(line)
+    for line in originalData:
 
-originalFile.close()
-newFile.close()
+        for check, replace in zip(checkWords, repWords):
+            line = line.replace(check, replace)
+
+        newFile.write(line)
+
+    originalFile.close()
+    newFile.close()
