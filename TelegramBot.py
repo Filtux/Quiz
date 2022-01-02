@@ -36,9 +36,9 @@ def screenshot(message):
 
 @bot.message_handler(["mod"])
 def modify(message):
-  teamScoreImage = pyscreenshot.grab(bbox=(440, 198, 650, 250))
-  teamScoreImage.save("C:\Users\Administrator\Desktop\Quiz\CurrentQuestionNumber.png")
+  teamScoreImage = pyscreenshot.grab(bbox=(0, 20, 260, 45))
+  teamScoreImage.save(r"C:\Users\Administrator\Desktop\Quiz\Quiz\CurrentQuestionNumber.png")
   bot.send_photo(message.chat.id, teamScoreImage)
-#  ss.runScreenShot()
+  ss.runScreenShot()
 
 bot.polling()
