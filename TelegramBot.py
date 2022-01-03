@@ -18,22 +18,151 @@ def greet(message):
 def test(test):
     bot.reply_to(test, "Test")
 
+#Add default 500 points, just for memory one right now
+
 @bot.message_handler(["add1"])
 def add1(message):
-    bot.reply_to(message, "you said add1")
     qf.giveTeamPoints(1)
 
+@bot.message_handler(["add2"])
+def add2(message):
+  qf.giveTeamPoints(2)
+
+@bot.message_handler(["add3"])
+def add3(message):
+    qf.giveTeamPoints(3)
+
+@bot.message_handler(["add4"])
+def add4(message):
+  qf.giveTeamPoints(4)
+
+@bot.message_handler(["add5"])
+def add5(message):
+    qf.giveTeamPoints(5)
+
+@bot.message_handler(["add6"])
+def add6(message):
+  qf.giveTeamPoints(6)
+
+@bot.message_handler(["add7"])
+def add7(message):
+    qf.giveTeamPoints(7)
+
+@bot.message_handler(["add8"])
+def add8(message):
+  qf.giveTeamPoints(8)
+
+@bot.message_handler(["add9"])
+def add9(message):
+    qf.giveTeamPoints(9)
+
+@bot.message_handler(["add10"])
+def add10(message):
+  qf.giveTeamPoints(10)
+
+@bot.message_handler(["add11"])
+def add11(message):
+    qf.giveTeamPoints(11)
+
+@bot.message_handler(["add12"])
+def add12(message):
+  qf.giveTeamPoints(12)
+
+@bot.message_handler(["add13"])
+def add13(message):
+    qf.giveTeamPoints(13)
+
+@bot.message_handler(["add14"])
+def add14(message):
+  qf.giveTeamPoints(14)
+
+@bot.message_handler(["add15"])
+def add15(message):
+    qf.giveTeamPoints(15)
+
+#Remove default 500 points, just for memory one right now
+
+@bot.message_handler(["rem1"])
+def rem1(message):
+    qf.giveTeamPoints(1)
+
+@bot.message_handler(["rem2"])
+def add3(message):
+  qf.giveTeamPoints(2)
+
+@bot.message_handler(["rem3"])
+def rem3(message):
+    qf.giveTeamPoints(3)
+
+@bot.message_handler(["rem4"])
+def rem4(message):
+  qf.giveTeamPoints(4)
+
+@bot.message_handler(["rem5"])
+def rem5(message):
+    qf.giveTeamPoints(5)
+
+@bot.message_handler(["rem6"])
+def rem6(message):
+  qf.giveTeamPoints(6)
+
+@bot.message_handler(["rem7"])
+def rem7(message):
+    qf.giveTeamPoints(7)
+
+@bot.message_handler(["rem8"])
+def rem8(message):
+  qf.giveTeamPoints(8)
+
+@bot.message_handler(["rem9"])
+def rem9(message):
+    qf.giveTeamPoints(9)
+
+@bot.message_handler(["rem10"])
+def rem10(message):
+  qf.giveTeamPoints(10)
+
+@bot.message_handler(["rem11"])
+def rem11(message):
+    qf.giveTeamPoints(11)
+
+@bot.message_handler(["rem12"])
+def rem12(message):
+  qf.giveTeamPoints(12)
+
+@bot.message_handler(["rem13"])
+def rem13(message):
+    qf.giveTeamPoints(13)
+
+@bot.message_handler(["rem14"])
+def rem14(message):
+  qf.giveTeamPoints(14)
+
+@bot.message_handler(["rem15"])
+def rem15(message):
+    qf.giveTeamPoints(15)
+
+
+
+ 
+
 @bot.message_handler(['msf'])
-def msf(message):
+def makeSecondFirst(message):
   bot.reply_to(message, "msf")
   qf.makeSecondFirst()
 
+
 @bot.message_handler(["screenshot"])
 def screenshot(message):
-  image = pyscreenshot.grab(bbox=(0, 0, 1000, 1000)) #set to quiz box parameters
-  image.save("liveTeamPosition.png") #save it in a folder and +date to filename or something
-  image = open('liveTeamPosition.png', 'rb')
+  image = pyscreenshot.grab(bbox=(479, 57, 879, 561)) #set to quiz box parameters
+  #image.save("liveTeamPosition.png") #save it in a folder and +date to filename or something
+  #image = open('liveTeamPosition.png', 'rb')
   bot.send_photo(message.chat.id, image)
+
+
+
+
+
 
 @bot.message_handler(["mod"])
 def modify(message):

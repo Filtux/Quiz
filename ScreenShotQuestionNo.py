@@ -3,8 +3,6 @@ import pytesseract as pyt
 import QuizFunctions as qf
 import pyautogui
 
-
-
 def runScreenShot():
 
     modifier = 0.9
@@ -12,18 +10,19 @@ def runScreenShot():
     #Path to tesseract
     pyt.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
     #Set to quiz box parameters
-    image = pyscreenshot.grab(bbox=(0, 20, 260, 45)) 
+    #image = pyscreenshot.grab(bbox=(0, 20, 260, 45)) 
   
     # To view the screenshot
     #image.show()
   
     # To save the screenshot
-    image.save(r"C:\Users\Administrator\Desktop\Quiz\CurrentQuestionNumber.png")
+    #image.save(r"C:\Users\Administrator\Desktop\Quiz\CurrentQuestionNumber.png")
 
-    textFromImage = pyt.image_to_string(r'C:\Users\Administrator\Desktop\Quiz\Quiz\CurrentQuestionNumber.png')
+    #textFromImage = pyt.image_to_string(r'C:\Users\Administrator\Desktop\Quiz\Quiz\CurrentQuestionNumber.png')
+    textFromImage = pyt.image_to_string(r'C:\PythonScripts\Quiz\CurrentQuestionNumber.png')
 
     (print(textFromImage))
- #   if 'Question 5' in textFromImage:
+ #   if 'Question n. 1' in textFromImage:
         #Run the sequence to open a team, alter points with modifier
         #Testing with buzzer 1
   #      qf.openBuzzerManager()
@@ -45,5 +44,5 @@ def runScreenShot():
     #    qf.exitBuzzerManager()
      #   qf.returnToGo()
 
-        
+
 

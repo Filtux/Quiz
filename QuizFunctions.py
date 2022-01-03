@@ -2,7 +2,7 @@ import pyautogui
 import PySimpleGUI
 import time
 
-pyautogui.PAUSE = 0.5
+#pyautogui.PAUSE = 0.5
 # Keypad manager's buzzer number coordinates
 listofCoordinates = [(0,0) for x in range(0, 15)] 
 listofCoordinates[0] = (450, 420)
@@ -66,6 +66,11 @@ def increase500Points():
     pyautogui.leftClick()
     return
 
+def increasePoints(amount):
+    if int(amount.isdigit()) == True:
+        pyautogui.typewrite(amount)
+        print("Testing")
+
 def decrease500Points():
     pyautogui.moveTo(1034, 237)
     pyautogui.leftClick()
@@ -73,6 +78,18 @@ def decrease500Points():
 
 def saveMemoryOne():
     pyautogui.moveTo(340, 326)
+    pyautogui.click()
+    pyautogui.moveTo(707, 442)
+    pyautogui.click()
+
+def saveMemoryTwo():
+    pyautogui.moveTo(457, 326)
+    pyautogui.click()
+    pyautogui.moveTo(707, 442)
+    pyautogui.click()
+
+def saveMemoryThree():
+    pyautogui.moveTo(574, 326)
     pyautogui.click()
     pyautogui.moveTo(707, 442)
     pyautogui.click()
@@ -96,6 +113,66 @@ def giveTeamPoints(buzzerNumber):
     saveMemoryOne()
     exitBuzzerManager()
     returnToGo() #Will not click after
+
+def removeTeamPoints(buzzerNumber):
+    openBuzzerManager()
+    openBuzzer(buzzerNumber)
+    pyautogui.press('enter') #skips the teamname screen
+    decrease500Points()
+    saveMemoryOne()
+    exitBuzzerManager()
+    returnToGo() #Will not click after
+
+def giveTeamPoints(buzzerNumber, memory):
+    openBuzzerManager()
+    openBuzzer(buzzerNumber)
+    pyautogui.press('enter') #skips the teamname screen
+    increase500Points()
+    if memory == "1":
+        saveMemoryOne()
+    elif memory == "2":
+        saveMemoryTwo()
+    elif memory == "3":
+        saveMemoryThree()
+    exitBuzzerManager()
+    returnToGo() #Will not click after
+
+def removeTeamPoints(buzzerNumber, memory):
+    openBuzzerManager()
+    openBuzzer(buzzerNumber)
+    pyautogui.press('enter') #skips the teamname screen
+    decrease500Points()
+    if memory == "1":
+        saveMemoryOne()
+    elif memory == "2":
+        saveMemoryTwo()
+    elif memory == "3":
+        saveMemoryThree()
+    exitBuzzerManager()
+    returnToGo() #Will not click after
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 def removeTeamPoints(buzzerNumber):
     openBuzzerManager()
