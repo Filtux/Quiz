@@ -5,7 +5,7 @@ import datetime
 #Apply score modifier right before scoreboards e.g. 0.9x/1.25x etc
 
 #Test file, need to figure a way of automatically selecting the venue you're playing at
-venueLogFile = r'C:\Users\Joe\Desktop\Log\Test Venue_Log.txt'
+venueLogFile = r'C:\Users\Joe\Desktop\Log\TestLog.txt'
 buzzerToChange = "5 " #Keep space
 currentSessionLog = []
 modifierAmount = 0.9
@@ -13,7 +13,8 @@ modifierAmount = 0.9
 #Delete these comments when not testing
 #currentStringDate = datetime.datetime.now()
 #currentStringDate = currentStringDate.strftime("%d" + "/" + "%m" + "/" + "%Y")
-currentStringDate = "10/07/2020"
+#currentStringDate = "10/07/2020"
+currentStringDate = "24/11/2021"
 
 #def findBuzzer(buzzerToChange):
 
