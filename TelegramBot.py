@@ -157,7 +157,11 @@ def makeSecondFirst(message):
 @bot.message_handler(["screenshot"])
 def screenshot(message):
   image = pyscreenshot.grab(bbox=(483, 107, 879, 561)) #set to quiz box parameters
-  #image.save("liveTeamPosition.png") #save it in a folder and +date to filename or something
+
+  image.save("liveTeamPosition.png") #save it in a folder and +date to filename or something
+
+  image.save("liveTeamPosition.png") #save it in a folder and +date to filename or something
+
   #image = open('liveTeamPosition.png', 'rb')
   bot.send_photo(message.chat.id, image)
 
