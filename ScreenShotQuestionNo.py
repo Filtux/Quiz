@@ -2,33 +2,26 @@ import pyscreenshot
 import pytesseract as pyt
 import QuizFunctions as qf
 import pyautogui
+import pyperclip
 
-def runScreenShot():
+pyt.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
-    modifier = 0.9
+textFromImage = pyt.image_to_string(r'C:\PythonScripts\Quiz\CurrentQuestionNumber.png')
 
-    #Path to tesseract
-    pyt.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
-    #Set to quiz box parameters
-    #image = pyscreenshot.grab(bbox=(0, 20, 260, 45)) 
-  
-    # To view the screenshot
-    #image.show()
-  
-    # To save the screenshot
-    #image.save(r"C:\Users\Administrator\Desktop\Quiz\CurrentQuestionNumber.png")
+multiplier = 0.9
 
-    #textFromImage = pyt.image_to_string(r'C:\Users\Administrator\Desktop\Quiz\Quiz\CurrentQuestionNumber.png')
-    textFromImage = pyt.image_to_string(r'C:\PythonScripts\Quiz\CurrentQuestionNumber.png')
+def runModifierifQ1():
 
-    (print(textFromImage))
- #   if 'Question n. 1' in textFromImage:
-        #Run the sequence to open a team, alter points with modifier
-        #Testing with buzzer 1
-  #      qf.openBuzzerManager()
-  #      qf.openBuzzer(1)
-  #      pyautogui.press('enter') #skips the teamname screen
+    if 'Question n. 1' in textFromImage:
 
+        qf.openBuzzerManager()
+        qf.openBuzzer(1)
+        pyautogui.press('enter') #skips the teamname screen
+        pyperclip.copy()
+        modifiedValue = int(pyperclip.paste()) * multiplier
+        pyautogui.typewrite(modifiedValue)
+
+        
   #      teamScoreImage = pyscreenshot.grab(bbox=(440, 198, 650, 250))
 #
  #       teamScoreImage.save(r"C:\PythonScripts\Quiz\CurrentTeamScore.png")

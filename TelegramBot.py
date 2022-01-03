@@ -6,6 +6,7 @@ import ScreenShotQuestionNo as ss
 import QuizInitialTestLoad as tl
 import QuizBuzzerModifierCurrentFinal as qb
 import pyautogui
+import ScreenShotQuestionNo as ss
 
 API_KEY = '5079172619:AAHCary8yVpgIOKcsxrJuQWv4h8ApxPhtww'
 
@@ -183,12 +184,16 @@ def buzzerModifier(message):
   qf.exitBuzzerManager()
   qf.returnToGo()
 
-@bot.message_handler(["mod"])
-def modify(message):
+@bot.message_handler(["modTEST"])
+def modifyTEST(message):
   teamScoreImage = pyscreenshot.grab(bbox=(0, 20, 260, 45))
   teamScoreImage.save(r"C:\Users\Administrator\Desktop\Quiz\Quiz\CurrentQuestionNumber.png")
   bot.send_photo(message.chat.id, teamScoreImage)
   ss.runScreenShot()
+
+@bot.messge_handler(["mod"])
+def modify(message):
+  ss.runModifierifQ1()
 
 @bot.message_handler(["loadGame"])
 def loadGame(message):

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1/12/2021 7:32:02 PM|Quizzame|ROUND 1|Question 1 |ID:159  |Correct:E  |Keypad:4 |Name:Captain Mat  |Pressed:A  |Seconds:0.91  |Question Points:-470  |Total:0
 1/12/2021 7:32:02 PM|Quizzame|ROUND 1|Question 1 |ID:159  |Correct:E  |Keypad:10 |Name:Menace to Sobriety  |Pressed:A  |Seconds:1.56  |Question Points:-449  |Total:0
 1/12/2021 7:32:03 PM|Quizzame|ROUND 1|Question 1 |ID:159  |Correct:E  |Keypad:17 |Name:Bridgeway Boys  |Pressed:A  |Seconds:2.16  |Question Points:-429  |Total:0
@@ -1010,3 +1011,5 @@
 1/12/2021 8:56:36 PM|Quizzame|ROUND 4|Question 12| ID:7660  |Correct:C  |Keypad:16 |Name:Thirsty Camels  |Pressed:C  |Seconds:1.75  |Question Points:1766  |Total:35653
 1/12/2021 8:56:37 PM|Quizzame|ROUND 4|Question 12| ID:7660  |Correct:C  |Keypad:17 |Name:Bridgeway Boys  |Pressed:C  |Seconds:2.22  |Question Points:1703  |Total:28126
 1/12/2021 8:56:37 PM|Quizzame|ROUND 4|Question 12| ID:7660  |Correct:C  |Keypad:4 |Name:Captain Mat  |Pressed:C  |Seconds:2.02  |Question Points:1729  |Total:29898
+=======
+>>>>>>> 6a5bc0d9018778ff460b0f29dd6038e6f3083acb
