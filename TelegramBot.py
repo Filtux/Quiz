@@ -191,9 +191,13 @@ def modifyTEST(message):
   bot.send_photo(message.chat.id, teamScoreImage)
   ss.runScreenShot()
 
-@bot.messge_handler(["mod"])
+@bot.message_handler(["mod"])
 def modify(message):
-  ss.runModifierifQ1()
+  while ss.runModifierifQ5 != True:
+    if ss.runModifierifQ5() == True:
+      qf.saveMemoryOne()
+      qf.exitBuzzerManager()
+      qf.returnToGo()
 
 @bot.message_handler(["loadGame"])
 def loadGame(message):

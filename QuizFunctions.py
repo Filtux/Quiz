@@ -94,6 +94,17 @@ def saveMemoryThree():
     pyautogui.moveTo(707, 442)
     pyautogui.click()
 
+def roundCheck():
+    with open(#venue log file) as file:
+        lineList = file.readLines()
+        if #Regex search for date not in lineList[-1]:
+            #Memory one
+        elif #Regex search for round two in lineList[-1]
+            #memory two
+        elif #Regex search for round three in lineList[-1]:
+            #memory three
+
+
 def exitBuzzerManager():
     pyautogui.moveTo(1037, 329)
     pyautogui.leftClick()
@@ -106,6 +117,7 @@ def returnToGo():
     return
 
 def giveTeamPoints(buzzerNumber):
+    #Check for which round
     openBuzzerManager()
     openBuzzer(buzzerNumber)
     pyautogui.press('enter') #skips the teamname screen
@@ -123,6 +135,7 @@ def removeTeamPoints(buzzerNumber):
     exitBuzzerManager()
     returnToGo() #Will not click after
 
+"""
 def giveTeamPoints(buzzerNumber, memory):
     openBuzzerManager()
     openBuzzer(buzzerNumber)
@@ -151,7 +164,7 @@ def removeTeamPoints(buzzerNumber, memory):
     exitBuzzerManager()
     returnToGo() #Will not click after
 
-
+"""
 
 
 
