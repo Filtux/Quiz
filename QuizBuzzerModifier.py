@@ -6,7 +6,7 @@ import datetime
 
 #Test file, need to figure a way of automatically selecting the venue you're playing at
 venueLogFile = r'C:\Users\Joe\Desktop\Log\TestLog.txt'
-buzzerToChange = 1
+buzzerToChange = 5
 currentSessionLog = []
 
 #Delete these comments when not testing

@@ -4,6 +4,8 @@ import QuizFunctions as qf
 import pyscreenshot
 import ScreenShotQuestionNo as ss
 import QuizInitialTestLoad as tl
+import QuizBuzzerModifierCurrentFinal as qb
+import pyautogui
 
 API_KEY = '5079172619:AAHCary8yVpgIOKcsxrJuQWv4h8ApxPhtww'
 
@@ -154,14 +156,22 @@ def makeSecondFirst(message):
 
 @bot.message_handler(["screenshot"])
 def screenshot(message):
-  image = pyscreenshot.grab(bbox=(479, 57, 879, 561)) #set to quiz box parameters
+  image = pyscreenshot.grab(bbox=(483, 107, 879, 561)) #set to quiz box parameters
   #image.save("liveTeamPosition.png") #save it in a folder and +date to filename or something
   #image = open('liveTeamPosition.png', 'rb')
   bot.send_photo(message.chat.id, image)
 
-
-
-
+@bot.message_handler(['t'])
+def buzzerModifier(message):
+  qb.periodicSessionGrab()
+  grabbedPointsFromLog = qb.scan()
+  qf.openBuzzerManager()
+  qf.openBuzzer(1)
+  pyautogui.press('enter') #skips the teamname screen
+  pyautogui.typewrite(grabbedPointsFromLog)
+  qf.saveMemoryOne()
+  qf.ExitBuzzerManager()
+  qf.returnToGo()
 
 
 @bot.message_handler(["mod"])

@@ -15,6 +15,10 @@ modifierAmount = 0.9
 #currentStringDate = currentStringDate.strftime("%d" + "/" + "%m" + "/" + "%Y")
 currentStringDate = "10/07/2020"
 
+currentStringTime = datetime.datetime.now()
+currentStringTime = currentStringTime.strftime("%I:%M")
+print(currentStringTime)
+
 #def findBuzzer(buzzerToChange):
 
 #    contents = log.readlines()
@@ -26,7 +30,7 @@ currentStringDate = "10/07/2020"
 #    something = re.search(currentStringDate, str(contents))
 #    return something
 
-def monitorCurrentSession():
+def periodicSessionGrab():
 
     with open(venueLogFile) as log:
 
@@ -38,50 +42,66 @@ def monitorCurrentSession():
     #Makes new list of all entries of today's date from the log - Also saves them into txt file
     
     for currentSessionLines in foundEntryIndexList:
+
         currentSessionLog.append(listOfLines[currentSessionLines])
 
     with open("CurrentSessionLog.txt", 'w') as file:
         for line in currentSessionLog:
             file.write(line)
+
+def scan():
+
+    with open("CurrentSessionLog.txt", 'r') as currentSessionLog:
+
+        for eachEntry in currentSessionLog:
+
+            if re.search("Question 5", eachEntry) != None:
+            
+                if "Keypad:" + buzzerToChange in eachEntry:
+                    if re.search("Total:" + '.\w+', eachEntry) != None:
+                    
+                        found = re.search("Total:" + '.\w+', eachEntry)
+                        
+                        exactMatch = (found.group())
+                        exactMatchSliced = int(exactMatch[6:]) #Extracts Total Points
+
+                        if exactMatchSliced > 0: #If positive integer
+                            
+                            exactMatchSlicedModified = int(exactMatchSliced * modifierAmount)
+
+                            return exactMatchSlicedModified
+                            
+
+                            #substitute and replace string exact match with exact match sliced at value part
+                            
+                    #       replacedMatch = re.sub(str(exactMatchSliced), str(exactMatchSlicedModified), eachEntry)
+                    #       print(replacedMatch)
+
+                            #Update the actual log file
+                    #   else:
+                    #       print("it's negative")
+
+
+            
+            
+            #printre.search(r'Question Points:\b.+\|g', i)
+
+        #Change value of score (question points for now)
+        #    print(i + "END")
+
+    #print("Buzzer number not found in list")
         
-monitorCurrentSession()
+periodicSessionGrab()
 
 print("Keypad:" + str(buzzerToChange))
 
-for i in currentSessionLog:
-    #e.g. single digit
-    if "Keypad:" + buzzerToChange in i:
-        
-        if re.search("Question Points:" + '.\w+', i) != None:
+scan()
 
-            found = re.search("Question Points:" + '.\w+', i)
+teamScore = scan()
 
-            exactMatch = (found.group())
-            exactMatchSliced = int(exactMatch[16:]) #Removes Question Points:
-
-            if exactMatchSliced > 0: #If positive integer
-                print(exactMatchSliced)
-                exactMatchSlicedModified = int(exactMatchSliced * modifierAmount)
-                print(exactMatchSlicedModified)
-
-                #substitute and replace string exact match with exact match sliced at value part
-                
-                replacedMatch = re.sub(str(exactMatchSliced), str(exactMatchSlicedModified), i)
-                print(replacedMatch)
-
-                #Update the actual log file
-            else:
-                print("it's negative")
+print(teamScore)
 
 
-        
-        
-        #printre.search(r'Question Points:\b.+\|g', i)
-
-    #Change value of score (question points for now)
-    #    print(i + "END")
-
-#print("Buzzer number not found in list")
 
 
 

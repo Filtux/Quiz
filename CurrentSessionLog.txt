@@ -1,0 +1,466 @@
+10/07/2020 7:34:22 PM|Quizzame|Question 1| ID:5366  |Correct:A  |Keypad:12 |Name:103  |Pressed:A  |Seconds:0.5  |Question Points:950  |Total:950
+10/07/2020 7:34:23 PM|Quizzame|Question 1| ID:5366  |Correct:A  |Keypad:6 |Name:The Bobcats  |Pressed:A  |Seconds:0.73  |Question Points:927  |Total:927
+10/07/2020 7:34:23 PM|Quizzame|Question 1| ID:5366  |Correct:A  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:A  |Seconds:0.81  |Question Points:919  |Total:919
+10/07/2020 7:34:23 PM|Quizzame|Question 1| ID:5366  |Correct:A  |Keypad:8 |Name:Trans-Houston  |Pressed:A  |Seconds:0.71  |Question Points:929  |Total:-4071
+10/07/2020 7:34:23 PM|Quizzame|Question 1| ID:5366  |Correct:A  |Keypad:2 |Name:DC  |Pressed:A  |Seconds:0.83  |Question Points:917  |Total:-4083
+10/07/2020 7:34:23 PM|Quizzame|Question 1| ID:5366  |Correct:A  |Keypad:7 |Name:ETC  |Pressed:A  |Seconds:1.4  |Question Points:860  |Total:860
+10/07/2020 7:34:24 PM|Quizzame|Question 1| ID:5366  |Correct:A  |Keypad:10 |Name:Father Knows Best  |Pressed:A  |Seconds:1.91  |Question Points:809  |Total:-4191
+10/07/2020 7:34:25 PM|Quizzame|Question 1| ID:5366  |Correct:A  |Keypad:11 |Name:Quaranteam  |Pressed:A  |Seconds:3.23  |Question Points:677  |Total:677
+10/07/2020 7:34:25 PM|Quizzame|Question 1| ID:5366  |Correct:A  |Keypad:4 |Name:Seven Up  |Pressed:A  |Seconds:3.03  |Question Points:697  |Total:697
+10/07/2020 7:34:28 PM|Quizzame|Question 1| ID:5366  |Correct:A  |Keypad:3 |Name:Rice Queens  |Pressed:A  |Seconds:6.04  |Question Points:396  |Total:396
+10/07/2020 7:34:58 PM|Quizzame|Question 2| ID:7099  |Correct:C  |Keypad:2 |Name:DC  |Pressed:C  |Seconds:1.21  |Question Points:919  |Total:-3164
+10/07/2020 7:34:59 PM|Quizzame|Question 2| ID:7099  |Correct:C  |Keypad:7 |Name:ETC  |Pressed:C  |Seconds:1.96  |Question Points:869  |Total:1729
+10/07/2020 7:34:59 PM|Quizzame|Question 2 |ID:7099  |Correct:C  |Keypad:10 |Name:Father Knows Best  |Pressed:A  |Seconds:1.86  |Question Points:-4.39  |Total:-4191
+10/07/2020 7:34:59 PM|Quizzame|Question 2| ID:7099  |Correct:C  |Keypad:11 |Name:Quaranteam  |Pressed:C  |Seconds:2.28  |Question Points:847  |Total:1524
+10/07/2020 7:34:59 PM|Quizzame|Question 2| ID:7099  |Correct:C  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:C  |Seconds:2.09  |Question Points:860  |Total:1779
+10/07/2020 7:35:00 PM|Quizzame|Question 2 |ID:7099  |Correct:C  |Keypad:12 |Name:103  |Pressed:E  |Seconds:2.98  |Question Points:-402  |Total:950
+10/07/2020 7:35:07 PM|Quizzame|Question 2| ID:7099  |Correct:C  |Keypad:6 |Name:The Bobcats  |Pressed:C  |Seconds:9.92  |Question Points:335  |Total:1262
+10/07/2020 7:35:08 PM|Quizzame|Question 2 |ID:7099  |Correct:C  |Keypad:4 |Name:Seven Up  |Pressed:D  |Seconds:11.01  |Question Points:-27.4  |Total:697
+10/07/2020 7:35:09 PM|Quizzame|Question 2 |ID:7099  |Correct:C  |Keypad:3 |Name:Rice Queens  |Pressed:A  |Seconds:12.41  |Question Points:-9  |Total:396
+10/07/2020 7:35:51 PM|Quizzame|Question 3| ID:7016  |Correct:E  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:E  |Seconds:1.05  |Question Points:2789  |Total:4568
+10/07/2020 7:35:51 PM|Quizzame|Question 3| ID:7016  |Correct:E  |Keypad:7 |Name:ETC  |Pressed:E  |Seconds:1.87  |Question Points:2624  |Total:4353
+10/07/2020 7:35:51 PM|Quizzame|Question 3| ID:7016  |Correct:E  |Keypad:10 |Name:Father Knows Best  |Pressed:E  |Seconds:1.83  |Question Points:2632  |Total:-1563
+10/07/2020 7:35:52 PM|Quizzame|Question 3| ID:7016  |Correct:E  |Keypad:8 |Name:Trans-Houston  |Pressed:E  |Seconds:2.51  |Question Points:2495  |Total:-1576
+10/07/2020 7:35:52 PM|Quizzame|Question 3| ID:7016  |Correct:E  |Keypad:2 |Name:DC  |Pressed:E  |Seconds:2.69  |Question Points:2459  |Total:-705
+10/07/2020 7:35:52 PM|Quizzame|Question 3| ID:7016  |Correct:E  |Keypad:3 |Name:Rice Queens  |Pressed:E  |Seconds:2.79  |Question Points:2439  |Total:2826
+10/07/2020 7:35:52 PM|Quizzame|Question 3| ID:7016  |Correct:E  |Keypad:6 |Name:The Bobcats  |Pressed:E  |Seconds:2.77  |Question Points:2443  |Total:3705
+10/07/2020 7:35:52 PM|Quizzame|Question 3| ID:7016  |Correct:E  |Keypad:12 |Name:103  |Pressed:E  |Seconds:2.96  |Question Points:2405  |Total:2953
+10/07/2020 7:35:55 PM|Quizzame|Question 3| ID:7016  |Correct:E  |Keypad:11 |Name:Quaranteam  |Pressed:E  |Seconds:5.67  |Question Points:1860  |Total:3384
+10/07/2020 7:36:00 PM|Quizzame|Question 3| ID:7016  |Correct:E  |Keypad:4 |Name:Seven Up  |Pressed:E  |Seconds:10.9  |Question Points:809  |Total:1479
+10/07/2020 7:36:36 PM|Quizzame|Question 4| ID:13035  |Correct:B  |Keypad:2 |Name:DC  |Pressed:B  |Seconds:1.54  |Question Points:897  |Total:192
+10/07/2020 7:36:37 PM|Quizzame|Question 4| ID:13035  |Correct:B  |Keypad:10 |Name:Father Knows Best  |Pressed:B  |Seconds:2.84  |Question Points:810  |Total:-753
+10/07/2020 7:36:38 PM|Quizzame|Question 4| ID:13035  |Correct:B  |Keypad:4 |Name:Seven Up  |Pressed:B  |Seconds:4.29  |Question Points:713  |Total:2192
+10/07/2020 7:36:42 PM|Quizzame|Question 4| ID:13035  |Correct:B  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:B  |Seconds:7.73  |Question Points:482  |Total:5050
+10/07/2020 7:36:42 PM|Quizzame|Question 4| ID:13035  |Correct:B  |Keypad:11 |Name:Quaranteam  |Pressed:B  |Seconds:7.73  |Question Points:482  |Total:3866
+10/07/2020 7:36:47 PM|Quizzame|Question 4 |ID:13035  |Correct:B  |Keypad:7 |Name:ETC  |Pressed:C  |Seconds:12.67  |Question Points:-41  |Total:4353
+10/07/2020 7:36:47 PM|Quizzame|Question 4| ID:13035  |Correct:B  |Keypad:8 |Name:Trans-Houston  |Pressed:B  |Seconds:13.43  |Question Points:100  |Total:-1476
+10/07/2020 7:36:48 PM|Quizzame|Question 4| ID:13035  |Correct:B  |Keypad:6 |Name:The Bobcats  |Pressed:B  |Seconds:13.8  |Question Points:75  |Total:3780
+10/07/2020 7:36:49 PM|Quizzame|Question 4 |ID:13035  |Correct:B  |Keypad:12 |Name:103  |Pressed:C  |Seconds:14.9  |Question Points:-1.6  |Total:2953
+10/07/2020 7:37:24 PM|Quizzame|Question 5 |ID:2048  |Correct:B  |Keypad:4 |Name:Seven Up  |Pressed:D  |Seconds:4.72  |Question Points:-34.4  |Total:2192
+10/07/2020 7:37:25 PM|Quizzame|Question 5 |ID:2048  |Correct:B  |Keypad:8 |Name:Trans-Houston  |Pressed:D  |Seconds:5.01  |Question Points:-3.35  |Total:-1476
+10/07/2020 7:37:25 PM|Quizzame|Question 5 |ID:2048  |Correct:B  |Keypad:11 |Name:Quaranteam  |Pressed:D  |Seconds:5.81  |Question Points:-154  |Total:3866
+10/07/2020 7:37:26 PM|Quizzame|Question 5| ID:2048  |Correct:B  |Keypad:10 |Name:Father Knows Best  |Pressed:B  |Seconds:6.77  |Question Points:546  |Total:-207
+10/07/2020 7:37:29 PM|Quizzame|Question 5 |ID:2048  |Correct:B  |Keypad:12 |Name:103  |Pressed:A  |Seconds:9.62  |Question Points:-36.6  |Total:2951
+10/07/2020 7:37:31 PM|Quizzame|Question 5 |ID:2048  |Correct:B  |Keypad:7 |Name:ETC  |Pressed:D  |Seconds:11.36  |Question Points:-62.5  |Total:4312
+10/07/2020 7:37:32 PM|Quizzame|Question 5 |ID:2048  |Correct:B  |Keypad:2 |Name:DC  |Pressed:E  |Seconds:12.62  |Question Points:-8.400001  |Total:192
+10/07/2020 7:37:35 PM|Quizzame|Question 5 |ID:2048  |Correct:B  |Keypad:6 |Name:The Bobcats  |Pressed:B  |Seconds:15.44  |Question Points:0  |Total:3780
+10/07/2020 7:38:15 PM|Quizzame|Question 6| ID:1754  |Correct:A  |Keypad:2 |Name:DC  |Pressed:A  |Seconds:1.8  |Question Points:2638  |Total:2822
+10/07/2020 7:38:15 PM|Quizzame|Question 6| ID:1754  |Correct:A  |Keypad:10 |Name:Father Knows Best  |Pressed:A  |Seconds:2.19  |Question Points:2560  |Total:2353
+10/07/2020 7:38:17 PM|Quizzame|Question 6 |ID:1754  |Correct:A  |Keypad:8 |Name:Trans-Houston  |Pressed:C  |Seconds:3.81  |Question Points:-11.23  |Total:-1479
+10/07/2020 7:38:18 PM|Quizzame|Question 6| ID:1754  |Correct:A  |Keypad:4 |Name:Seven Up  |Pressed:A  |Seconds:5.64  |Question Points:1866  |Total:4024
+10/07/2020 7:38:20 PM|Quizzame|Question 6 |ID:1754  |Correct:A  |Keypad:6 |Name:The Bobcats  |Pressed:C  |Seconds:7.47  |Question Points:-380  |Total:3780
+10/07/2020 7:38:24 PM|Quizzame|Question 6 |ID:1754  |Correct:A  |Keypad:11 |Name:Quaranteam  |Pressed:C  |Seconds:11.62  |Question Points:-70  |Total:3712
+10/07/2020 7:39:29 PM|Quizzame|Question 7| ID:2171  |Correct:E  |Keypad:3 |Name:Rice Queens  |Pressed:E  |Seconds:2.26  |Question Points:849  |Total:3675
+10/07/2020 7:39:33 PM|Quizzame|Question 7| ID:2171  |Correct:E  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:E  |Seconds:6.32  |Question Points:577  |Total:5627
+10/07/2020 7:39:34 PM|Quizzame|Question 7| ID:2171  |Correct:E  |Keypad:7 |Name:ETC  |Pressed:E  |Seconds:7.35  |Question Points:508  |Total:4758
+10/07/2020 7:39:34 PM|Quizzame|Question 7| ID:2171  |Correct:E  |Keypad:10 |Name:Father Knows Best  |Pressed:E  |Seconds:7.66  |Question Points:487  |Total:2840
+10/07/2020 7:39:35 PM|Quizzame|Question 7 |ID:2171  |Correct:E  |Keypad:4 |Name:Seven Up  |Pressed:C  |Seconds:8.56  |Question Points:-109  |Total:4024
+10/07/2020 7:39:36 PM|Quizzame|Question 7| ID:2171  |Correct:E  |Keypad:8 |Name:Trans-Houston  |Pressed:E  |Seconds:9.56  |Question Points:359  |Total:-1131
+10/07/2020 7:39:37 PM|Quizzame|Question 7| ID:2171  |Correct:E  |Keypad:12 |Name:103  |Pressed:E  |Seconds:10.24  |Question Points:314  |Total:3228
+10/07/2020 7:39:41 PM|Quizzame|Question 7| ID:2171  |Correct:E  |Keypad:11 |Name:Quaranteam  |Pressed:E  |Seconds:14.44  |Question Points:33  |Total:3675
+10/07/2020 7:39:41 PM|Quizzame|Question 7| ID:2171  |Correct:E  |Keypad:6 |Name:The Bobcats  |Pressed:E  |Seconds:14.44  |Question Points:33  |Total:3433
+10/07/2020 7:40:48 PM|Quizzame|Question 8 |ID:16131  |Correct:DBAEC  |Keypad:2 |Name:DC  |Tasti:DBE  |Seconds:8.22  |Question Points:-100.7  |Total:2822
+10/07/2020 7:40:48 PM|Quizzame|Question 8| ID:16131  |Correct:DBAEC  |Keypad:3 |Name:Rice Queens  |Tasti:DBAEC  |Seconds:24.58  |Question Points:50  |Total:3725
+10/07/2020 7:40:48 PM|Quizzame|Question 8| ID:16131  |Correct:DBAEC  |Keypad:4 |Name:Seven Up  |Tasti:DBAEC  |Seconds:10.9  |Question Points:1692  |Total:5607
+10/07/2020 7:40:48 PM|Quizzame|Question 8 |ID:16131  |Correct:DBAEC  |Keypad:5 |Name:SevenMinsInKevin  |Tasti:DBEAD  |Seconds:13.99  |Question Points:-661  |Total:5627
+10/07/2020 7:40:48 PM|Quizzame|Question 8| ID:16131  |Correct:DBAEC  |Keypad:6 |Name:The Bobcats  |Tasti:DBAEC  |Seconds:12.65  |Question Points:1482  |Total:4915
+10/07/2020 7:40:48 PM|Quizzame|Question 8| ID:16131  |Correct:DBAEC  |Keypad:7 |Name:ETC  |Tasti:DBAEC  |Seconds:12.93  |Question Points:1448  |Total:6206
+10/07/2020 7:40:48 PM|Quizzame|Question 8| ID:16131  |Correct:DBAEC  |Keypad:8 |Name:Trans-Houston  |Tasti:DBAEC  |Seconds:12.71  |Question Points:1475  |Total:344
+10/07/2020 7:40:48 PM|Quizzame|Question 8| ID:16131  |Correct:DBAEC  |Keypad:10 |Name:Father Knows Best  |Tasti:DBAEC  |Seconds:12.41  |Question Points:1511  |Total:4351
+10/07/2020 7:40:48 PM|Quizzame|Question 8| ID:16131  |Correct:DBAEC  |Keypad:11 |Name:Quaranteam  |Tasti:DBAEC  |Seconds:13.93  |Question Points:1328  |Total:5003
+10/07/2020 7:40:48 PM|Quizzame|Question 8| ID:16131  |Correct:DBAEC  |Keypad:12 |Name:103  |Tasti:DBAEC  |Seconds:21.68  |Question Points:398  |Total:3626
+10/07/2020 7:41:17 PM|Quizzame|Question 9| ID:15294  |Correct:C  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:C  |Seconds:1.52  |Question Points:898  |Total:5864
+10/07/2020 7:41:17 PM|Quizzame|Question 9 |ID:15294  |Correct:C  |Keypad:10 |Name:Father Knows Best  |Pressed:D  |Seconds:1.58  |Question Points:-89.6  |Total:4351
+10/07/2020 7:41:17 PM|Quizzame|Question 9| ID:15294  |Correct:C  |Keypad:2 |Name:DC  |Pressed:C  |Seconds:1.79  |Question Points:880  |Total:3601
+10/07/2020 7:41:17 PM|Quizzame|Question 9| ID:15294  |Correct:C  |Keypad:7 |Name:ETC  |Pressed:C  |Seconds:1.87  |Question Points:875  |Total:7081
+10/07/2020 7:41:19 PM|Quizzame|Question 9| ID:15294  |Correct:C  |Keypad:11 |Name:Quaranteam  |Pressed:C  |Seconds:3.31  |Question Points:778  |Total:5781
+10/07/2020 7:41:19 PM|Quizzame|Question 9| ID:15294  |Correct:C  |Keypad:6 |Name:The Bobcats  |Pressed:C  |Seconds:4.13  |Question Points:723  |Total:5638
+10/07/2020 7:41:20 PM|Quizzame|Question 9| ID:15294  |Correct:C  |Keypad:3 |Name:Rice Queens  |Pressed:C  |Seconds:5.13  |Question Points:656  |Total:4381
+10/07/2020 7:41:20 PM|Quizzame|Question 9| ID:15294  |Correct:C  |Keypad:4 |Name:Seven Up  |Pressed:C  |Seconds:5.12  |Question Points:657  |Total:6264
+10/07/2020 7:41:25 PM|Quizzame|Question 9 |ID:15294  |Correct:C  |Keypad:8 |Name:Trans-Houston  |Pressed:D  |Seconds:9.32  |Question Points:-1.92  |Total:344
+10/07/2020 7:41:26 PM|Quizzame|Question 9| ID:15294  |Correct:C  |Keypad:12 |Name:103  |Pressed:C  |Seconds:11.01  |Question Points:262  |Total:3888
+10/07/2020 7:42:26 PM|Quizzame|Question 10| ID:12312  |Correct:E  |Keypad:2 |Name:DC  |Pressed:E  |Seconds:1.77  |Question Points:2644  |Total:6245
+10/07/2020 7:42:26 PM|Quizzame|Question 10| ID:12312  |Correct:E  |Keypad:10 |Name:Father Knows Best  |Pressed:E  |Seconds:1.78  |Question Points:2642  |Total:6903
+10/07/2020 7:42:26 PM|Quizzame|Question 10| ID:12312  |Correct:E  |Keypad:7 |Name:ETC  |Pressed:E  |Seconds:1.76  |Question Points:2646  |Total:9727
+10/07/2020 7:42:27 PM|Quizzame|Question 10| ID:12312  |Correct:E  |Keypad:4 |Name:Seven Up  |Pressed:E  |Seconds:2.59  |Question Points:2479  |Total:8743
+10/07/2020 7:42:28 PM|Quizzame|Question 10| ID:12312  |Correct:E  |Keypad:11 |Name:Quaranteam  |Pressed:E  |Seconds:3.85  |Question Points:2226  |Total:8007
+10/07/2020 7:42:29 PM|Quizzame|Question 10| ID:12312  |Correct:E  |Keypad:3 |Name:Rice Queens  |Pressed:E  |Seconds:4.31  |Question Points:2134  |Total:6515
+10/07/2020 7:42:30 PM|Quizzame|Question 10| ID:12312  |Correct:E  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:E  |Seconds:5.3  |Question Points:1935  |Total:7799
+10/07/2020 7:42:31 PM|Quizzame|Question 10 |ID:12312  |Correct:E  |Keypad:6 |Name:The Bobcats  |Pressed:C  |Seconds:6.45  |Question Points:-172.2  |Total:5638
+10/07/2020 7:42:39 PM|Quizzame|Question 10 |ID:12312  |Correct:E  |Keypad:8 |Name:Trans-Houston  |Pressed:E  |Seconds:15.19  |Question Points:0  |Total:342
+10/07/2020 7:43:20 PM|Quizzame|Question 11 |ID:13208  |Correct:D  |Keypad:11 |Name:Quaranteam  |Pressed:E  |Seconds:5.39  |Question Points:-161  |Total:8007
+10/07/2020 7:43:23 PM|Quizzame|Question 11 |ID:13208  |Correct:D  |Keypad:6 |Name:The Bobcats  |Pressed:E  |Seconds:8.67  |Question Points:-21.4  |Total:5466
+10/07/2020 7:43:25 PM|Quizzame|Question 11 |ID:13208  |Correct:D  |Keypad:2 |Name:DC  |Pressed:A  |Seconds:10.6  |Question Points:-15  |Total:6245
+10/07/2020 7:43:25 PM|Quizzame|Question 11| ID:13208  |Correct:D  |Keypad:8 |Name:Trans-Houston  |Pressed:D  |Seconds:10.54  |Question Points:294  |Total:636
+10/07/2020 7:43:26 PM|Quizzame|Question 11 |ID:13208  |Correct:D  |Keypad:7 |Name:ETC  |Pressed:C  |Seconds:11.67  |Question Points:-115  |Total:9727
+10/07/2020 7:44:08 PM|Quizzame|Question 12 |ID:16539  |Correct:B  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:D  |Seconds:1.02  |Question Points:-93.2  |Total:7799
+10/07/2020 7:44:08 PM|Quizzame|Question 12| ID:16539  |Correct:B  |Keypad:12 |Name:103  |Pressed:B  |Seconds:1.39  |Question Points:907  |Total:4795
+10/07/2020 7:44:08 PM|Quizzame|Question 12| ID:16539  |Correct:B  |Keypad:2 |Name:DC  |Pressed:B  |Seconds:1.43  |Question Points:904  |Total:7134
+10/07/2020 7:44:09 PM|Quizzame|Question 12| ID:16539  |Correct:B  |Keypad:7 |Name:ETC  |Pressed:B  |Seconds:1.72  |Question Points:885  |Total:10497
+10/07/2020 7:44:09 PM|Quizzame|Question 12 |ID:16539  |Correct:B  |Keypad:11 |Name:Quaranteam  |Pressed:D  |Seconds:2.09  |Question Points:-215.5  |Total:7846
+10/07/2020 7:44:09 PM|Quizzame|Question 12 |ID:16539  |Correct:B  |Keypad:4 |Name:Seven Up  |Pressed:E  |Seconds:2.15  |Question Points:-214.5  |Total:8743
+10/07/2020 7:44:09 PM|Quizzame|Question 12| ID:16539  |Correct:B  |Keypad:3 |Name:Rice Queens  |Pressed:B  |Seconds:2.32  |Question Points:845  |Total:7360
+10/07/2020 7:44:10 PM|Quizzame|Question 12| ID:16539  |Correct:B  |Keypad:10 |Name:Father Knows Best  |Pressed:B  |Seconds:2.87  |Question Points:808  |Total:7711
+10/07/2020 7:44:10 PM|Quizzame|Question 12 |ID:16539  |Correct:B  |Keypad:8 |Name:Trans-Houston  |Pressed:D  |Seconds:3.54  |Question Points:-3.83  |Total:636
+10/07/2020 7:44:16 PM|Quizzame|Question 12| ID:16539  |Correct:B  |Keypad:6 |Name:The Bobcats  |Pressed:B  |Seconds:9.57  |Question Points:359  |Total:5804
+10/07/2020 7:46:01 PM|Quizzame|Question Campanelle|Correct:B  |Keypad:2 |Name:DC  |Tasti:C |Question Points:0  |Total:7134
+10/07/2020 7:46:01 PM|Quizzame|Question Campanelle|Correct:B  |Keypad:3 |Name:Rice Queens  |Tasti: |Question Points:0  |Total:7360
+10/07/2020 7:46:01 PM|Quizzame|Question Campanelle|Correct:B  |Keypad:4 |Name:Seven Up  |Tasti:B |Question Points:500  |Total:9028
+10/07/2020 7:46:01 PM|Quizzame|Question Campanelle|Correct:B  |Keypad:5 |Name:SevenMinsInKevin  |Tasti: |Question Points:0  |Total:7706
+10/07/2020 7:46:01 PM|Quizzame|Question Campanelle|Correct:B  |Keypad:6 |Name:The Bobcats  |Tasti:B |Question Points:500  |Total:6304
+10/07/2020 7:46:01 PM|Quizzame|Question Campanelle|Correct:B  |Keypad:7 |Name:ETC  |Tasti:B |Question Points:500  |Total:10997
+10/07/2020 7:46:01 PM|Quizzame|Question Campanelle|Correct:B  |Keypad:8 |Name:Trans-Houston  |Tasti: |Question Points:0  |Total:632
+10/07/2020 7:46:01 PM|Quizzame|Question Campanelle|Correct:B  |Keypad:10 |Name:Father Knows Best  |Tasti:C |Question Points:0  |Total:7711
+10/07/2020 7:46:01 PM|Quizzame|Question Campanelle|Correct:B  |Keypad:11 |Name:Quaranteam  |Tasti: |Question Points:0  |Total:7630
+10/07/2020 7:46:01 PM|Quizzame|Question Campanelle|Correct:B  |Keypad:12 |Name:103  |Tasti:B |Question Points:500  |Total:5295
+10/07/2020 7:54:19 PM|Name That Tune 1|Question 1| ID:95  |Correct:C  |Keypad:11 |Name:Quaranteam  |Pressed:C  |Seconds:1.51  |Question Points:1623  |Total:2623
+10/07/2020 7:54:19 PM|Name That Tune 1|Question 1| ID:95  |Correct:C  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:C  |Seconds:1.49  |Question Points:1627  |Total:2627
+10/07/2020 7:54:19 PM|Name That Tune 1|Question 1| ID:95  |Correct:C  |Keypad:7 |Name:ETC  |Pressed:C  |Seconds:2.2  |Question Points:1450  |Total:1450
+10/07/2020 7:54:19 PM|Name That Tune 1|Question 1| ID:95  |Correct:C  |Keypad:2 |Name:DC  |Pressed:C  |Seconds:2.1  |Question Points:1475  |Total:-525
+10/07/2020 7:54:19 PM|Name That Tune 1|Question 1 |ID:95  |Correct:C  |Keypad:6 |Name:The Bobcats  |Pressed:B  |Seconds:1.84  |Question Points:-772  |Total:0
+10/07/2020 7:54:20 PM|Name That Tune 1|Question 1 |ID:95  |Correct:C  |Keypad:8 |Name:Trans-Houston  |Pressed:B  |Seconds:2.5  |Question Points:-690  |Total:-1000
+10/07/2020 7:54:24 PM|Name That Tune 1|Question 1 |ID:95  |Correct:C  |Keypad:12 |Name:103  |Pressed:B  |Seconds:6.58  |Question Points:-184  |Total:0
+10/07/2020 7:54:26 PM|Name That Tune 1|Question 1 |ID:95  |Correct:C  |Keypad:3 |Name:Rice Queens  |Pressed:B  |Seconds:8.72  |Question Points:0  |Total:500
+10/07/2020 7:54:26 PM|Name That Tune 1|Question 1 |ID:95  |Correct:C  |Keypad:10 |Name:Father Knows Best  |Pressed:C  |Seconds:9.18  |Question Points:0  |Total:-2000
+10/07/2020 7:55:11 PM|Name That Tune 1|Question 2| ID:96  |Correct:D  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:D  |Seconds:0.72  |Question Points:1820  |Total:4447
+10/07/2020 7:55:12 PM|Name That Tune 1|Question 2| ID:96  |Correct:D  |Keypad:2 |Name:DC  |Pressed:D  |Seconds:1.17  |Question Points:1708  |Total:1183
+10/07/2020 7:55:12 PM|Name That Tune 1|Question 2| ID:96  |Correct:D  |Keypad:7 |Name:ETC  |Pressed:D  |Seconds:1.62  |Question Points:1595  |Total:3045
+10/07/2020 7:55:12 PM|Name That Tune 1|Question 2| ID:96  |Correct:D  |Keypad:8 |Name:Trans-Houston  |Pressed:D  |Seconds:1.54  |Question Points:1615  |Total:-75
+10/07/2020 7:55:12 PM|Name That Tune 1|Question 2| ID:96  |Correct:D  |Keypad:6 |Name:The Bobcats  |Pressed:D  |Seconds:1.91  |Question Points:1523  |Total:751
+10/07/2020 7:55:12 PM|Name That Tune 1|Question 2| ID:96  |Correct:D  |Keypad:11 |Name:Quaranteam  |Pressed:D  |Seconds:1.97  |Question Points:1507  |Total:4130
+10/07/2020 7:55:13 PM|Name That Tune 1|Question 2| ID:96  |Correct:D  |Keypad:3 |Name:Rice Queens  |Pressed:D  |Seconds:2.18  |Question Points:1455  |Total:1955
+10/07/2020 7:55:13 PM|Name That Tune 1|Question 2| ID:96  |Correct:D  |Keypad:4 |Name:Seven Up  |Pressed:D  |Seconds:2.57  |Question Points:1358  |Total:1358
+10/07/2020 7:55:13 PM|Name That Tune 1|Question 2| ID:96  |Correct:D  |Keypad:12 |Name:103  |Pressed:D  |Seconds:2.53  |Question Points:1368  |Total:1184
+10/07/2020 7:55:13 PM|Name That Tune 1|Question 2| ID:96  |Correct:D  |Keypad:10 |Name:Father Knows Best  |Pressed:D  |Seconds:2.87  |Question Points:1283  |Total:-717
+10/07/2020 7:56:00 PM|Name That Tune 1|Question 3| ID:97  |Correct:D  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:D  |Seconds:1.21  |Question Points:1697  |Total:6144
+10/07/2020 7:56:00 PM|Name That Tune 1|Question 3| ID:97  |Correct:D  |Keypad:7 |Name:ETC  |Pressed:D  |Seconds:1.22  |Question Points:1695  |Total:4740
+10/07/2020 7:56:00 PM|Name That Tune 1|Question 3| ID:97  |Correct:D  |Keypad:3 |Name:Rice Queens  |Pressed:D  |Seconds:1.88  |Question Points:1530  |Total:3485
+10/07/2020 7:56:00 PM|Name That Tune 1|Question 3| ID:97  |Correct:D  |Keypad:4 |Name:Seven Up  |Pressed:D  |Seconds:1.97  |Question Points:1507  |Total:2865
+10/07/2020 7:56:00 PM|Name That Tune 1|Question 3| ID:97  |Correct:D  |Keypad:11 |Name:Quaranteam  |Pressed:D  |Seconds:1.75  |Question Points:1562  |Total:5692
+10/07/2020 7:56:00 PM|Name That Tune 1|Question 3| ID:97  |Correct:D  |Keypad:6 |Name:The Bobcats  |Pressed:D  |Seconds:1.94  |Question Points:1515  |Total:2266
+10/07/2020 7:56:01 PM|Name That Tune 1|Question 3| ID:97  |Correct:D  |Keypad:10 |Name:Father Knows Best  |Pressed:D  |Seconds:2.44  |Question Points:1390  |Total:673
+10/07/2020 7:56:01 PM|Name That Tune 1|Question 3| ID:97  |Correct:D  |Keypad:8 |Name:Trans-Houston  |Pressed:D  |Seconds:3.03  |Question Points:1243  |Total:1168
+10/07/2020 7:56:03 PM|Name That Tune 1|Question 3| ID:97  |Correct:D  |Keypad:12 |Name:103  |Pressed:D  |Seconds:4.43  |Question Points:893  |Total:2077
+10/07/2020 7:56:03 PM|Name That Tune 1|Question 3| ID:97  |Correct:D  |Keypad:2 |Name:DC  |Pressed:D  |Seconds:4.76  |Question Points:810  |Total:1993
+10/07/2020 7:56:44 PM|Name That Tune 1|Question 4| ID:98  |Correct:B  |Keypad:10 |Name:Father Knows Best  |Pressed:B  |Seconds:1.9  |Question Points:1525  |Total:2198
+10/07/2020 7:56:46 PM|Name That Tune 1|Question 4| ID:98  |Correct:B  |Keypad:4 |Name:Seven Up  |Pressed:B  |Seconds:3.6  |Question Points:1100  |Total:3965
+10/07/2020 7:56:48 PM|Name That Tune 1|Question 4 |ID:98  |Correct:B  |Keypad:2 |Name:DC  |Pressed:D  |Seconds:5.39  |Question Points:-33.2  |Total:1993
+10/07/2020 7:56:48 PM|Name That Tune 1|Question 4| ID:98  |Correct:B  |Keypad:7 |Name:ETC  |Pressed:B  |Seconds:5.73  |Question Points:567  |Total:5307
+10/07/2020 7:56:50 PM|Name That Tune 1|Question 4| ID:98  |Correct:B  |Keypad:11 |Name:Quaranteam  |Pressed:B  |Seconds:7.48  |Question Points:130  |Total:5822
+10/07/2020 7:56:50 PM|Name That Tune 1|Question 4| ID:98  |Correct:B  |Keypad:8 |Name:Trans-Houston  |Pressed:B  |Seconds:7.79  |Question Points:53  |Total:1221
+10/07/2020 7:57:33 PM|Name That Tune 1|Question 5| ID:99  |Correct:B  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:B  |Seconds:0.8  |Question Points:1800  |Total:7944
+10/07/2020 7:57:33 PM|Name That Tune 1|Question 5| ID:99  |Correct:B  |Keypad:2 |Name:DC  |Pressed:B  |Seconds:0.88  |Question Points:1780  |Total:3740
+10/07/2020 7:57:33 PM|Name That Tune 1|Question 5| ID:99  |Correct:B  |Keypad:8 |Name:Trans-Houston  |Pressed:B  |Seconds:1.15  |Question Points:1713  |Total:2934
+10/07/2020 7:57:33 PM|Name That Tune 1|Question 5| ID:99  |Correct:B  |Keypad:3 |Name:Rice Queens  |Pressed:B  |Seconds:1.29  |Question Points:1678  |Total:5163
+10/07/2020 7:57:33 PM|Name That Tune 1|Question 5| ID:99  |Correct:B  |Keypad:7 |Name:ETC  |Pressed:B  |Seconds:1.13  |Question Points:1718  |Total:7025
+10/07/2020 7:57:33 PM|Name That Tune 1|Question 5| ID:99  |Correct:B  |Keypad:11 |Name:Quaranteam  |Pressed:B  |Seconds:1.08  |Question Points:1730  |Total:7552
+10/07/2020 7:57:34 PM|Name That Tune 1|Question 5| ID:99  |Correct:B  |Keypad:6 |Name:The Bobcats  |Pressed:B  |Seconds:1.22  |Question Points:1695  |Total:3961
+10/07/2020 7:57:34 PM|Name That Tune 1|Question 5| ID:99  |Correct:B  |Keypad:10 |Name:Father Knows Best  |Pressed:B  |Seconds:1.56  |Question Points:1610  |Total:3808
+10/07/2020 7:57:36 PM|Name That Tune 1|Question 5| ID:99  |Correct:B  |Keypad:12 |Name:103  |Pressed:B  |Seconds:3.2  |Question Points:1200  |Total:3277
+10/07/2020 7:57:36 PM|Name That Tune 1|Question 5| ID:99  |Correct:B  |Keypad:4 |Name:Seven Up  |Pressed:B  |Seconds:3.93  |Question Points:1017  |Total:4982
+10/07/2020 7:58:19 PM|Name That Tune 1|Question 6| ID:100  |Correct:C  |Keypad:2 |Name:DC  |Pressed:C  |Seconds:0.89  |Question Points:1778  |Total:5518
+10/07/2020 7:58:20 PM|Name That Tune 1|Question 6| ID:100  |Correct:C  |Keypad:7 |Name:ETC  |Pressed:C  |Seconds:1.85  |Question Points:1537  |Total:8562
+10/07/2020 7:58:21 PM|Name That Tune 1|Question 6| ID:100  |Correct:C  |Keypad:8 |Name:Trans-Houston  |Pressed:C  |Seconds:2.25  |Question Points:1438  |Total:4372
+10/07/2020 7:58:21 PM|Name That Tune 1|Question 6| ID:100  |Correct:C  |Keypad:11 |Name:Quaranteam  |Pressed:C  |Seconds:2.33  |Question Points:1418  |Total:8970
+10/07/2020 7:58:22 PM|Name That Tune 1|Question 6| ID:100  |Correct:C  |Keypad:10 |Name:Father Knows Best  |Pressed:C  |Seconds:3.25  |Question Points:1188  |Total:4996
+10/07/2020 7:58:22 PM|Name That Tune 1|Question 6 |ID:100  |Correct:C  |Keypad:3 |Name:Rice Queens  |Pressed:B  |Seconds:3.32  |Question Points:-117.6  |Total:5163
+10/07/2020 7:58:22 PM|Name That Tune 1|Question 6| ID:100  |Correct:C  |Keypad:4 |Name:Seven Up  |Pressed:C  |Seconds:3.24  |Question Points:1190  |Total:6172
+10/07/2020 7:58:26 PM|Name That Tune 1|Question 6| ID:100  |Correct:C  |Keypad:6 |Name:The Bobcats  |Pressed:C  |Seconds:7.74  |Question Points:65  |Total:4026
+10/07/2020 7:59:16 PM|Name That Tune 1|Question 7| ID:101  |Correct:C  |Keypad:2 |Name:DC  |Pressed:C  |Seconds:1.04  |Question Points:1740  |Total:7258
+10/07/2020 7:59:16 PM|Name That Tune 1|Question 7 |ID:101  |Correct:C  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:D  |Seconds:1.1  |Question Points:-432  |Total:7944
+10/07/2020 7:59:16 PM|Name That Tune 1|Question 7| ID:101  |Correct:C  |Keypad:3 |Name:Rice Queens  |Pressed:C  |Seconds:1.07  |Question Points:1732  |Total:6777
+10/07/2020 7:59:16 PM|Name That Tune 1|Question 7| ID:101  |Correct:C  |Keypad:10 |Name:Father Knows Best  |Pressed:C  |Seconds:1.41  |Question Points:1648  |Total:6644
+10/07/2020 7:59:16 PM|Name That Tune 1|Question 7| ID:101  |Correct:C  |Keypad:7 |Name:ETC  |Pressed:C  |Seconds:1.43  |Question Points:1643  |Total:10205
+10/07/2020 7:59:16 PM|Name That Tune 1|Question 7| ID:101  |Correct:C  |Keypad:11 |Name:Quaranteam  |Pressed:C  |Seconds:1.68  |Question Points:1580  |Total:10550
+10/07/2020 7:59:17 PM|Name That Tune 1|Question 7| ID:101  |Correct:C  |Keypad:8 |Name:Trans-Houston  |Pressed:C  |Seconds:2.87  |Question Points:1283  |Total:5655
+10/07/2020 7:59:18 PM|Name That Tune 1|Question 7| ID:101  |Correct:C  |Keypad:4 |Name:Seven Up  |Pressed:C  |Seconds:3.54  |Question Points:1115  |Total:7287
+10/07/2020 7:59:19 PM|Name That Tune 1|Question 7| ID:101  |Correct:C  |Keypad:6 |Name:The Bobcats  |Pressed:C  |Seconds:3.83  |Question Points:1043  |Total:5069
+10/07/2020 7:59:22 PM|Name That Tune 1|Question 7| ID:101  |Correct:C  |Keypad:12 |Name:103  |Pressed:C  |Seconds:7.67  |Question Points:82  |Total:3359
+10/07/2020 8:00:11 PM|Name That Tune 1|Question 8| ID:102  |Correct:B  |Keypad:3 |Name:Rice Queens  |Pressed:B  |Seconds:0.71  |Question Points:1823  |Total:8600
+10/07/2020 8:00:12 PM|Name That Tune 1|Question 8| ID:102  |Correct:B  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:B  |Seconds:1.18  |Question Points:1705  |Total:9217
+10/07/2020 8:00:12 PM|Name That Tune 1|Question 8| ID:102  |Correct:B  |Keypad:2 |Name:DC  |Pressed:B  |Seconds:1.1  |Question Points:1725  |Total:8983
+10/07/2020 8:00:12 PM|Name That Tune 1|Question 8| ID:102  |Correct:B  |Keypad:7 |Name:ETC  |Pressed:B  |Seconds:1.12  |Question Points:1720  |Total:11925
+10/07/2020 8:00:12 PM|Name That Tune 1|Question 8| ID:102  |Correct:B  |Keypad:6 |Name:The Bobcats  |Pressed:B  |Seconds:1.12  |Question Points:1720  |Total:6789
+10/07/2020 8:00:12 PM|Name That Tune 1|Question 8| ID:102  |Correct:B  |Keypad:4 |Name:Seven Up  |Pressed:B  |Seconds:1.92  |Question Points:1520  |Total:8807
+10/07/2020 8:00:12 PM|Name That Tune 1|Question 8| ID:102  |Correct:B  |Keypad:12 |Name:103  |Pressed:B  |Seconds:1.77  |Question Points:1558  |Total:4917
+10/07/2020 8:00:12 PM|Name That Tune 1|Question 8| ID:102  |Correct:B  |Keypad:10 |Name:Father Knows Best  |Pressed:B  |Seconds:1.79  |Question Points:1553  |Total:8197
+10/07/2020 8:00:16 PM|Name That Tune 1|Question 8 |ID:102  |Correct:B  |Keypad:11 |Name:Quaranteam  |Pressed:A  |Seconds:5.54  |Question Points:-313  |Total:10550
+10/07/2020 8:00:17 PM|Name That Tune 1|Question 8| ID:102  |Correct:B  |Keypad:8 |Name:Trans-Houston  |Pressed:B  |Seconds:6.72  |Question Points:320  |Total:5975
+10/07/2020 8:02:25 PM|Quizzame|Question 1| ID:5905  |Correct:B  |Keypad:2 |Name:DC  |Pressed:B  |Seconds:0.79  |Question Points:921  |Total:921
+10/07/2020 8:02:26 PM|Quizzame|Question 1 |ID:5905  |Correct:B  |Keypad:3 |Name:Rice Queens  |Pressed:A  |Seconds:1.02  |Question Points:-449  |Total:0
+10/07/2020 8:02:26 PM|Quizzame|Question 1 |ID:5905  |Correct:B  |Keypad:6 |Name:The Bobcats  |Pressed:A  |Seconds:1.47  |Question Points:-426  |Total:0
+10/07/2020 8:02:26 PM|Quizzame|Question 1| ID:5905  |Correct:B  |Keypad:7 |Name:ETC  |Pressed:B  |Seconds:1.39  |Question Points:861  |Total:861
+10/07/2020 8:02:26 PM|Quizzame|Question 1| ID:5905  |Correct:B  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:B  |Seconds:1.51  |Question Points:849  |Total:849
+10/07/2020 8:02:26 PM|Quizzame|Question 1| ID:5905  |Correct:B  |Keypad:11 |Name:Quaranteam  |Pressed:B  |Seconds:1.44  |Question Points:856  |Total:856
+10/07/2020 8:02:26 PM|Quizzame|Question 1| ID:5905  |Correct:B  |Keypad:10 |Name:Father Knows Best  |Pressed:B  |Seconds:1.61  |Question Points:839  |Total:839
+10/07/2020 8:02:28 PM|Quizzame|Question 1 |ID:5905  |Correct:B  |Keypad:4 |Name:Seven Up  |Pressed:A  |Seconds:3.93  |Question Points:-303  |Total:0
+10/07/2020 8:02:30 PM|Quizzame|Question 1| ID:5905  |Correct:B  |Keypad:8 |Name:Trans-Houston  |Pressed:B  |Seconds:5.32  |Question Points:468  |Total:468
+10/07/2020 8:02:32 PM|Quizzame|Question 1| ID:5905  |Correct:B  |Keypad:12 |Name:103  |Pressed:B  |Seconds:7.79  |Question Points:221  |Total:221
+10/07/2020 8:03:02 PM|Quizzame|Question 2 |ID:7652  |Correct:A  |Keypad:8 |Name:Trans-Houston  |Pressed:B  |Seconds:0.77  |Question Points:-92.4  |Total:468
+10/07/2020 8:03:03 PM|Quizzame|Question 2| ID:7652  |Correct:A  |Keypad:4 |Name:Seven Up  |Pressed:A  |Seconds:1.43  |Question Points:857  |Total:554
+10/07/2020 8:03:03 PM|Quizzame|Question 2| ID:7652  |Correct:A  |Keypad:10 |Name:Father Knows Best  |Pressed:A  |Seconds:1.77  |Question Points:823  |Total:1662
+10/07/2020 8:03:05 PM|Quizzame|Question 2| ID:7652  |Correct:A  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:A  |Seconds:3.92  |Question Points:608  |Total:1457
+10/07/2020 8:03:05 PM|Quizzame|Question 2| ID:7652  |Correct:A  |Keypad:11 |Name:Quaranteam  |Pressed:A  |Seconds:3.86  |Question Points:614  |Total:1470
+10/07/2020 8:03:08 PM|Quizzame|Question 2 |ID:7652  |Correct:A  |Keypad:12 |Name:103  |Pressed:B  |Seconds:6.31  |Question Points:-18.5  |Total:221
+10/07/2020 8:03:10 PM|Quizzame|Question 2 |ID:7652  |Correct:A  |Keypad:6 |Name:The Bobcats  |Pressed:B  |Seconds:8.45  |Question Points:-7.8  |Total:-426
+10/07/2020 8:03:11 PM|Quizzame|Question 2 |ID:7652  |Correct:A  |Keypad:2 |Name:DC  |Pressed:B  |Seconds:8.98  |Question Points:-51  |Total:921
+10/07/2020 8:04:03 PM|Quizzame|Question 3| ID:15462  |Correct:D  |Keypad:7 |Name:ETC  |Pressed:D  |Seconds:1.89  |Question Points:2620  |Total:3481
+10/07/2020 8:04:04 PM|Quizzame|Question 3| ID:15462  |Correct:D  |Keypad:3 |Name:Rice Queens  |Pressed:D  |Seconds:2.61  |Question Points:2475  |Total:2026
+10/07/2020 8:04:05 PM|Quizzame|Question 3| ID:15462  |Correct:D  |Keypad:11 |Name:Quaranteam  |Pressed:D  |Seconds:3.87  |Question Points:2222  |Total:3692
+10/07/2020 8:04:07 PM|Quizzame|Question 3| ID:15462  |Correct:D  |Keypad:2 |Name:DC  |Pressed:D  |Seconds:6.28  |Question Points:1738  |Total:2608
+10/07/2020 8:04:09 PM|Quizzame|Question 3 |ID:15462  |Correct:D  |Keypad:8 |Name:Trans-Houston  |Pressed:B  |Seconds:8.19  |Question Points:-68.9  |Total:376
+10/07/2020 8:04:10 PM|Quizzame|Question 3| ID:15462  |Correct:D  |Keypad:12 |Name:103  |Pressed:D  |Seconds:8.83  |Question Points:1225  |Total:1427
+10/07/2020 8:04:12 PM|Quizzame|Question 3| ID:15462  |Correct:D  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:D  |Seconds:10.54  |Question Points:881  |Total:2338
+10/07/2020 8:04:14 PM|Quizzame|Question 3 |ID:15462  |Correct:D  |Keypad:6 |Name:The Bobcats  |Pressed:B  |Seconds:13.26  |Question Points:-18.7  |Total:-434
+10/07/2020 8:04:56 PM|Quizzame|Question 4 |ID:728  |Correct:B  |Keypad:8 |Name:Trans-Houston  |Pressed:C  |Seconds:1.82  |Question Points:-44  |Total:307
+10/07/2020 8:04:56 PM|Quizzame|Question 4| ID:728  |Correct:B  |Keypad:7 |Name:ETC  |Pressed:B  |Seconds:1.72  |Question Points:885  |Total:4366
+10/07/2020 8:04:56 PM|Quizzame|Question 4| ID:728  |Correct:B  |Keypad:2 |Name:DC  |Pressed:B  |Seconds:2.05  |Question Points:863  |Total:3471
+10/07/2020 8:04:57 PM|Quizzame|Question 4| ID:728  |Correct:B  |Keypad:10 |Name:Father Knows Best  |Pressed:B  |Seconds:2.39  |Question Points:840  |Total:2502
+10/07/2020 8:04:59 PM|Quizzame|Question 4| ID:728  |Correct:B  |Keypad:3 |Name:Rice Queens  |Pressed:B  |Seconds:4.99  |Question Points:666  |Total:2692
+10/07/2020 8:05:00 PM|Quizzame|Question 4| ID:728  |Correct:B  |Keypad:4 |Name:Seven Up  |Pressed:B  |Seconds:5.18  |Question Points:653  |Total:1207
+10/07/2020 8:05:03 PM|Quizzame|Question 4| ID:728  |Correct:B  |Keypad:6 |Name:The Bobcats  |Pressed:B  |Seconds:9.18  |Question Points:385  |Total:-68
+10/07/2020 8:05:06 PM|Quizzame|Question 4| ID:728  |Correct:B  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:B  |Seconds:11.87  |Question Points:205  |Total:2543
+10/07/2020 8:05:08 PM|Quizzame|Question 4| ID:728  |Correct:B  |Keypad:12 |Name:103  |Pressed:B  |Seconds:13.45  |Question Points:99  |Total:1526
+10/07/2020 8:05:09 PM|Quizzame|Question 4 |ID:728  |Correct:B  |Keypad:11 |Name:Quaranteam  |Pressed:A  |Seconds:14.29  |Question Points:-28  |Total:3692
+10/07/2020 8:06:28 PM|Quizzame|Question 5| ID:9374  |Correct:B  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:B  |Seconds:1.85  |Question Points:2628  |Total:5171
+10/07/2020 8:06:29 PM|Quizzame|Question 5 |ID:9374  |Correct:B  |Keypad:10 |Name:Father Knows Best  |Pressed:A  |Seconds:2.62  |Question Points:-248.2  |Total:2502
+10/07/2020 8:06:31 PM|Quizzame|Question 5| ID:9374  |Correct:B  |Keypad:3 |Name:Rice Queens  |Pressed:B  |Seconds:4.29  |Question Points:2138  |Total:4830
+10/07/2020 8:06:31 PM|Quizzame|Question 5 |ID:9374  |Correct:B  |Keypad:8 |Name:Trans-Houston  |Pressed:A  |Seconds:4.67  |Question Points:-103.8  |Total:263
+10/07/2020 8:06:32 PM|Quizzame|Question 5| ID:9374  |Correct:B  |Keypad:2 |Name:DC  |Pressed:B  |Seconds:6.04  |Question Points:1786  |Total:5257
+10/07/2020 8:06:37 PM|Quizzame|Question 5 |ID:9374  |Correct:B  |Keypad:11 |Name:Quaranteam  |Pressed:A  |Seconds:10.87  |Question Points:-212  |Total:3664
+10/07/2020 8:06:41 PM|Quizzame|Question 5 |ID:9374  |Correct:B  |Keypad:6 |Name:The Bobcats  |Pressed:A  |Seconds:14.46  |Question Points:-0.68  |Total:-68
+10/07/2020 8:07:14 PM|Quizzame|Question 6| ID:2069  |Correct:E  |Keypad:8 |Name:Trans-Houston  |Pressed:E  |Seconds:1.27  |Question Points:915  |Total:1074
+10/07/2020 8:07:14 PM|Quizzame|Question 6| ID:2069  |Correct:E  |Keypad:11 |Name:Quaranteam  |Pressed:E  |Seconds:1.95  |Question Points:869  |Total:4321
+10/07/2020 8:07:15 PM|Quizzame|Question 6| ID:2069  |Correct:E  |Keypad:10 |Name:Father Knows Best  |Pressed:E  |Seconds:2.67  |Question Points:821  |Total:3075
+10/07/2020 8:07:16 PM|Quizzame|Question 6| ID:2069  |Correct:E  |Keypad:3 |Name:Rice Queens  |Pressed:E  |Seconds:3.39  |Question Points:773  |Total:5603
+10/07/2020 8:07:16 PM|Quizzame|Question 6| ID:2069  |Correct:E  |Keypad:4 |Name:Seven Up  |Pressed:E  |Seconds:3.19  |Question Points:786  |Total:1993
+10/07/2020 8:07:16 PM|Quizzame|Question 6| ID:2069  |Correct:E  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:E  |Seconds:3.55  |Question Points:762  |Total:5933
+10/07/2020 8:07:17 PM|Quizzame|Question 6| ID:2069  |Correct:E  |Keypad:2 |Name:DC  |Pressed:E  |Seconds:4.07  |Question Points:727  |Total:5984
+10/07/2020 8:07:18 PM|Quizzame|Question 6| ID:2069  |Correct:E  |Keypad:7 |Name:ETC  |Pressed:E  |Seconds:5.06  |Question Points:661  |Total:5027
+10/07/2020 8:07:22 PM|Quizzame|Question 6| ID:2069  |Correct:E  |Keypad:6 |Name:The Bobcats  |Pressed:E  |Seconds:9.93  |Question Points:335  |Total:266
+10/07/2020 8:08:33 PM|Quizzame|Question 7| ID:2178  |Correct:E  |Keypad:8 |Name:Trans-Houston  |Pressed:E  |Seconds:5.64  |Question Points:622  |Total:1696
+10/07/2020 8:08:34 PM|Quizzame|Question 7| ID:2178  |Correct:E  |Keypad:4 |Name:Seven Up  |Pressed:E  |Seconds:7.44  |Question Points:502  |Total:2495
+10/07/2020 8:08:35 PM|Quizzame|Question 7| ID:2178  |Correct:E  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:E  |Seconds:7.91  |Question Points:470  |Total:6403
+10/07/2020 8:08:38 PM|Quizzame|Question 7 |ID:2178  |Correct:E  |Keypad:11 |Name:Quaranteam  |Pressed:B  |Seconds:11.07  |Question Points:-27  |Total:4321
+10/07/2020 8:08:42 PM|Quizzame|Question 7 |ID:2178  |Correct:E  |Keypad:6 |Name:The Bobcats  |Pressed:A  |Seconds:14.61  |Question Points:-0.18  |Total:266
+10/07/2020 8:09:50 PM|Quizzame|Question 8| ID:16634  |Correct:A  |Keypad:3 |Name:Rice Queens  |Pressed:A  |Seconds:0.86  |Question Points:2827  |Total:8430
+10/07/2020 8:09:50 PM|Quizzame|Question 8| ID:16634  |Correct:A  |Keypad:8 |Name:Trans-Houston  |Pressed:A  |Seconds:1.09  |Question Points:2781  |Total:4477
+10/07/2020 8:09:50 PM|Quizzame|Question 8 |ID:16634  |Correct:A  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:C  |Seconds:1.21  |Question Points:-1380  |Total:6403
+10/07/2020 8:09:51 PM|Quizzame|Question 8| ID:16634  |Correct:A  |Keypad:2 |Name:DC  |Pressed:A  |Seconds:1.46  |Question Points:2707  |Total:8691
+10/07/2020 8:09:51 PM|Quizzame|Question 8| ID:16634  |Correct:A  |Keypad:10 |Name:Father Knows Best  |Pressed:A  |Seconds:1.91  |Question Points:2616  |Total:5691
+10/07/2020 8:09:51 PM|Quizzame|Question 8| ID:16634  |Correct:A  |Keypad:11 |Name:Quaranteam  |Pressed:A  |Seconds:2.26  |Question Points:2546  |Total:6840
+10/07/2020 8:09:52 PM|Quizzame|Question 8 |ID:16634  |Correct:A  |Keypad:6 |Name:The Bobcats  |Pressed:C  |Seconds:3.26  |Question Points:-11.77  |Total:266
+10/07/2020 8:09:53 PM|Quizzame|Question 8 |ID:16634  |Correct:A  |Keypad:7 |Name:ETC  |Pressed:C  |Seconds:3.87  |Question Points:-223.4  |Total:5027
+10/07/2020 8:09:59 PM|Quizzame|Question 8 |ID:16634  |Correct:A  |Keypad:12 |Name:103  |Pressed:C  |Seconds:9.5  |Question Points:-56  |Total:1526
+10/07/2020 8:09:59 PM|Quizzame|Question 8 |ID:16634  |Correct:A  |Keypad:4 |Name:Seven Up  |Pressed:C  |Seconds:9.49  |Question Points:-56  |Total:2495
+10/07/2020 8:10:40 PM|Quizzame|Question 9| ID:7199  |Correct:A  |Keypad:6 |Name:The Bobcats  |Pressed:A  |Seconds:1.26  |Question Points:916  |Total:1170
+10/07/2020 8:10:40 PM|Quizzame|Question 9| ID:7199  |Correct:A  |Keypad:10 |Name:Father Knows Best  |Pressed:A  |Seconds:1.42  |Question Points:905  |Total:6596
+10/07/2020 8:10:40 PM|Quizzame|Question 9| ID:7199  |Correct:A  |Keypad:11 |Name:Quaranteam  |Pressed:A  |Seconds:1.48  |Question Points:901  |Total:7741
+10/07/2020 8:10:41 PM|Quizzame|Question 9| ID:7199  |Correct:A  |Keypad:2 |Name:DC  |Pressed:A  |Seconds:2.09  |Question Points:860  |Total:9551
+10/07/2020 8:10:41 PM|Quizzame|Question 9| ID:7199  |Correct:A  |Keypad:8 |Name:Trans-Houston  |Pressed:A  |Seconds:2.19  |Question Points:853  |Total:5330
+10/07/2020 8:10:44 PM|Quizzame|Question 9| ID:7199  |Correct:A  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:A  |Seconds:4.55  |Question Points:695  |Total:5718
+10/07/2020 8:10:45 PM|Quizzame|Question 9| ID:7199  |Correct:A  |Keypad:3 |Name:Rice Queens  |Pressed:A  |Seconds:6.38  |Question Points:573  |Total:9003
+10/07/2020 8:10:53 PM|Quizzame|Question 9| ID:7199  |Correct:A  |Keypad:7 |Name:ETC  |Pressed:A  |Seconds:14.39  |Question Points:36  |Total:4840
+10/07/2020 8:11:27 PM|Quizzame|Question 10| ID:6572  |Correct:A  |Keypad:6 |Name:The Bobcats  |Pressed:A  |Seconds:1.22  |Question Points:918  |Total:2088
+10/07/2020 8:11:27 PM|Quizzame|Question 10| ID:6572  |Correct:A  |Keypad:4 |Name:Seven Up  |Pressed:A  |Seconds:1.29  |Question Points:914  |Total:3353
+10/07/2020 8:11:28 PM|Quizzame|Question 10| ID:6572  |Correct:A  |Keypad:2 |Name:DC  |Pressed:A  |Seconds:1.49  |Question Points:900  |Total:10451
+10/07/2020 8:11:28 PM|Quizzame|Question 10| ID:6572  |Correct:A  |Keypad:8 |Name:Trans-Houston  |Pressed:A  |Seconds:1.27  |Question Points:915  |Total:6245
+10/07/2020 8:11:28 PM|Quizzame|Question 10| ID:6572  |Correct:A  |Keypad:10 |Name:Father Knows Best  |Pressed:A  |Seconds:1.78  |Question Points:881  |Total:7477
+10/07/2020 8:11:29 PM|Quizzame|Question 10| ID:6572  |Correct:A  |Keypad:7 |Name:ETC  |Pressed:A  |Seconds:2.64  |Question Points:823  |Total:5663
+10/07/2020 8:11:37 PM|Quizzame|Question 10| ID:6572  |Correct:A  |Keypad:3 |Name:Rice Queens  |Pressed:A  |Seconds:10.37  |Question Points:305  |Total:9308
+10/07/2020 8:11:40 PM|Quizzame|Question 10| ID:6572  |Correct:A  |Keypad:11 |Name:Quaranteam  |Pressed:A  |Seconds:14.12  |Question Points:54  |Total:7795
+10/07/2020 8:11:40 PM|Quizzame|Question 10 |ID:6572  |Correct:A  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:C  |Seconds:14.06  |Question Points:-7.2  |Total:5718
+10/07/2020 8:12:31 PM|Quizzame|Question 11| ID:8943  |Correct:E  |Keypad:2 |Name:DC  |Pressed:E  |Seconds:1.12  |Question Points:2775  |Total:13226
+10/07/2020 8:12:32 PM|Quizzame|Question 11| ID:8943  |Correct:E  |Keypad:3 |Name:Rice Queens  |Pressed:E  |Seconds:1.85  |Question Points:2628  |Total:11936
+10/07/2020 8:12:32 PM|Quizzame|Question 11| ID:8943  |Correct:E  |Keypad:7 |Name:ETC  |Pressed:E  |Seconds:1.75  |Question Points:2648  |Total:8311
+10/07/2020 8:12:33 PM|Quizzame|Question 11| ID:8943  |Correct:E  |Keypad:10 |Name:Father Knows Best  |Pressed:E  |Seconds:3.26  |Question Points:2345  |Total:9822
+10/07/2020 8:12:35 PM|Quizzame|Question 11 |ID:8943  |Correct:E  |Keypad:8 |Name:Trans-Houston  |Pressed:D  |Seconds:5.7  |Question Points:-187.2  |Total:6245
+10/07/2020 8:12:35 PM|Quizzame|Question 11 |ID:8943  |Correct:E  |Keypad:11 |Name:Quaranteam  |Pressed:B  |Seconds:5.81  |Question Points:-462.5  |Total:7795
+10/07/2020 8:12:41 PM|Quizzame|Question 11 |ID:8943  |Correct:E  |Keypad:4 |Name:Seven Up  |Pressed:D  |Seconds:11.02  |Question Points:-40.9  |Total:3353
+10/07/2020 8:12:42 PM|Quizzame|Question 11 |ID:8943  |Correct:E  |Keypad:6 |Name:The Bobcats  |Pressed:B  |Seconds:12.44  |Question Points:-26.8  |Total:2088
+10/07/2020 8:12:45 PM|Quizzame|Question 11 |ID:8943  |Correct:E  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:B  |Seconds:14.8  |Question Points:-7  |Total:5711
+10/07/2020 8:13:23 PM|Quizzame|Question 12 |ID:18  |Correct:C  |Keypad:11 |Name:Quaranteam  |Pressed:B  |Seconds:5.26  |Question Points:-65.2  |Total:7332
+10/07/2020 8:13:23 PM|Quizzame|Question 12 |ID:18  |Correct:C  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:B  |Seconds:5.59  |Question Points:-31.6  |Total:5704
+10/07/2020 8:13:25 PM|Quizzame|Question 12| ID:18  |Correct:C  |Keypad:10 |Name:Father Knows Best  |Pressed:C  |Seconds:7.83  |Question Points:475  |Total:10297
+10/07/2020 8:13:28 PM|Quizzame|Question 12 |ID:18  |Correct:C  |Keypad:12 |Name:103  |Pressed:E  |Seconds:9.81  |Question Points:-1.76  |Total:1470
+10/07/2020 8:13:32 PM|Quizzame|Question 12 |ID:18  |Correct:C  |Keypad:7 |Name:ETC  |Pressed:E  |Seconds:14.33  |Question Points:-5.4  |Total:8311
+10/07/2020 8:13:32 PM|Quizzame|Question 12 |ID:18  |Correct:C  |Keypad:8 |Name:Trans-Houston  |Pressed:B  |Seconds:14.32  |Question Points:-5.4  |Total:6058
+10/07/2020 8:13:32 PM|Quizzame|Question 12 |ID:18  |Correct:C  |Keypad:6 |Name:The Bobcats  |Pressed:E  |Seconds:14.74  |Question Points:-1.4  |Total:2061
+10/07/2020 8:25:40 PM|Quizzame|Question 1| ID:6782  |Correct:C  |Keypad:8 |Name:Trans-Houston  |Pressed:C  |Seconds:1.13  |Question Points:924  |Total:924
+10/07/2020 8:25:41 PM|Quizzame|Question 1| ID:6782  |Correct:C  |Keypad:7 |Name:ETC  |Pressed:C  |Seconds:1.87  |Question Points:875  |Total:875
+10/07/2020 8:25:41 PM|Quizzame|Question 1| ID:6782  |Correct:C  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:C  |Seconds:1.75  |Question Points:883  |Total:883
+10/07/2020 8:25:41 PM|Quizzame|Question 1| ID:6782  |Correct:C  |Keypad:2 |Name:DC  |Pressed:C  |Seconds:1.78  |Question Points:881  |Total:881
+10/07/2020 8:25:41 PM|Quizzame|Question 1| ID:6782  |Correct:C  |Keypad:11 |Name:Quaranteam  |Pressed:C  |Seconds:2.53  |Question Points:830  |Total:830
+10/07/2020 8:25:43 PM|Quizzame|Question 1| ID:6782  |Correct:C  |Keypad:6 |Name:The Bobcats  |Pressed:C  |Seconds:4.56  |Question Points:694  |Total:694
+10/07/2020 8:25:44 PM|Quizzame|Question 1| ID:6782  |Correct:C  |Keypad:3 |Name:Rice Queens  |Pressed:C  |Seconds:5.55  |Question Points:628  |Total:628
+10/07/2020 8:25:47 PM|Quizzame|Question 1| ID:6782  |Correct:C  |Keypad:4 |Name:Seven Up  |Pressed:C  |Seconds:8.33  |Question Points:442  |Total:442
+10/07/2020 8:25:53 PM|Quizzame|Question 1| ID:6782  |Correct:C  |Keypad:10 |Name:Father Knows Best  |Pressed:C  |Seconds:14.29  |Question Points:43  |Total:43
+10/07/2020 8:26:32 PM|Quizzame|Question 2 |ID:16306  |Correct:E  |Keypad:10 |Name:Father Knows Best  |Pressed:B  |Seconds:6.12  |Question Points:-29.8  |Total:43
+10/07/2020 8:26:33 PM|Quizzame|Question 2 |ID:16306  |Correct:E  |Keypad:11 |Name:Quaranteam  |Pressed:A  |Seconds:6.66  |Question Points:-56  |Total:830
+10/07/2020 8:26:36 PM|Quizzame|Question 2 |ID:16306  |Correct:E  |Keypad:4 |Name:Seven Up  |Pressed:C  |Seconds:10.17  |Question Points:-16.4  |Total:442
+10/07/2020 8:26:38 PM|Quizzame|Question 2 |ID:16306  |Correct:E  |Keypad:2 |Name:DC  |Pressed:D  |Seconds:12  |Question Points:-52  |Total:881
+10/07/2020 8:26:38 PM|Quizzame|Question 2| ID:16306  |Correct:E  |Keypad:7 |Name:ETC  |Pressed:E  |Seconds:12.46  |Question Points:165  |Total:1040
+10/07/2020 8:26:39 PM|Quizzame|Question 2 |ID:16306  |Correct:E  |Keypad:3 |Name:Rice Queens  |Pressed:A  |Seconds:12.68  |Question Points:-8.2  |Total:628
+10/07/2020 8:27:57 PM|Quizzame|Question 3 |ID:16108  |Correct:CEADB  |Keypad:2 |Name:DC  |Tasti:CEAAD  |Seconds:12.4  |Question Points:-151.2  |Total:829
+10/07/2020 8:27:57 PM|Quizzame|Question 3 |ID:16108  |Correct:CEADB  |Keypad:3 |Name:Rice Queens  |Tasti:CEABD  |Seconds:25.85  |Question Points:0  |Total:620
+10/07/2020 8:27:57 PM|Quizzame|Question 3 |ID:16108  |Correct:CEADB  |Keypad:4 |Name:Seven Up  |Tasti:CDBEA  |Seconds:16.45  |Question Points:-51.3  |Total:426
+10/07/2020 8:27:57 PM|Quizzame|Question 3| ID:16108  |Correct:CEADB  |Keypad:5 |Name:SevenMinsInKevin  |Tasti:CEADB  |Seconds:13.63  |Question Points:1364  |Total:2247
+10/07/2020 8:27:57 PM|Quizzame|Question 3| ID:16108  |Correct:CEADB  |Keypad:6 |Name:The Bobcats  |Tasti:CEADB  |Seconds:10.98  |Question Points:1682  |Total:2376
+10/07/2020 8:27:57 PM|Quizzame|Question 3| ID:16108  |Correct:CEADB  |Keypad:7 |Name:ETC  |Tasti:CEADB  |Seconds:13.9  |Question Points:1332  |Total:2372
+10/07/2020 8:27:57 PM|Quizzame|Question 3| ID:16108  |Correct:CEADB  |Keypad:8 |Name:Trans-Houston  |Tasti:CEADB  |Seconds:12.8  |Question Points:1464  |Total:2388
+10/07/2020 8:27:57 PM|Quizzame|Question 3| ID:16108  |Correct:CEADB  |Keypad:10 |Name:Father Knows Best  |Tasti:CEADB  |Seconds:10.6  |Question Points:1728  |Total:1741
+10/07/2020 8:27:57 PM|Quizzame|Question 3 |ID:16108  |Correct:CEADB  |Keypad:11 |Name:Quaranteam  |Tasti:EACEA  |Seconds:15.59  |Question Points:-113  |Total:774
+10/07/2020 8:28:35 PM|Quizzame|Question 4 |ID:13133  |Correct:C  |Keypad:3 |Name:Rice Queens  |Pressed:A  |Seconds:7.79  |Question Points:-24.3  |Total:620
+10/07/2020 8:28:36 PM|Quizzame|Question 4| ID:13133  |Correct:C  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:C  |Seconds:8.19  |Question Points:451  |Total:2698
+10/07/2020 8:28:37 PM|Quizzame|Question 4| ID:13133  |Correct:C  |Keypad:10 |Name:Father Knows Best  |Pressed:C  |Seconds:9.86  |Question Points:339  |Total:2080
+10/07/2020 8:28:37 PM|Quizzame|Question 4| ID:13133  |Correct:C  |Keypad:7 |Name:ETC  |Pressed:C  |Seconds:9.78  |Question Points:345  |Total:2717
+10/07/2020 8:28:41 PM|Quizzame|Question 4| ID:13133  |Correct:C  |Keypad:2 |Name:DC  |Pressed:C  |Seconds:13.36  |Question Points:105  |Total:783
+10/07/2020 8:28:42 PM|Quizzame|Question 4| ID:13133  |Correct:C  |Keypad:11 |Name:Quaranteam  |Pressed:C  |Seconds:14.77  |Question Points:10  |Total:671
+10/07/2020 8:29:23 PM|Quizzame|Question 5| ID:9592  |Correct:B  |Keypad:6 |Name:The Bobcats  |Pressed:B  |Seconds:1.55  |Question Points:2688  |Total:5064
+10/07/2020 8:29:23 PM|Quizzame|Question 5| ID:9592  |Correct:B  |Keypad:8 |Name:Trans-Houston  |Pressed:B  |Seconds:1.48  |Question Points:2703  |Total:5091
+10/07/2020 8:29:23 PM|Quizzame|Question 5| ID:9592  |Correct:B  |Keypad:11 |Name:Quaranteam  |Pressed:B  |Seconds:1.46  |Question Points:2707  |Total:3378
+10/07/2020 8:29:24 PM|Quizzame|Question 5| ID:9592  |Correct:B  |Keypad:4 |Name:Seven Up  |Pressed:B  |Seconds:2.23  |Question Points:2552  |Total:2927
+10/07/2020 8:29:24 PM|Quizzame|Question 5| ID:9592  |Correct:B  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:B  |Seconds:2.25  |Question Points:2548  |Total:5246
+10/07/2020 8:29:24 PM|Quizzame|Question 5| ID:9592  |Correct:B  |Keypad:3 |Name:Rice Queens  |Pressed:B  |Seconds:2.5  |Question Points:2498  |Total:3094
+10/07/2020 8:29:26 PM|Quizzame|Question 5| ID:9592  |Correct:B  |Keypad:10 |Name:Father Knows Best  |Pressed:B  |Seconds:4.3  |Question Points:2136  |Total:4216
+10/07/2020 8:29:28 PM|Quizzame|Question 5| ID:9592  |Correct:B  |Keypad:2 |Name:DC  |Pressed:B  |Seconds:6.15  |Question Points:1764  |Total:2547
+10/07/2020 8:30:18 PM|Quizzame|Question 6 |ID:565  |Correct:A  |Keypad:10 |Name:Father Knows Best  |Pressed:B  |Seconds:3  |Question Points:-240.6  |Total:4216
+10/07/2020 8:30:21 PM|Quizzame|Question 6| ID:565  |Correct:A  |Keypad:8 |Name:Trans-Houston  |Pressed:A  |Seconds:5.62  |Question Points:1870  |Total:6961
+10/07/2020 8:30:22 PM|Quizzame|Question 6| ID:565  |Correct:A  |Keypad:7 |Name:ETC  |Pressed:A  |Seconds:7.01  |Question Points:1591  |Total:4308
+10/07/2020 8:30:24 PM|Quizzame|Question 6| ID:565  |Correct:A  |Keypad:11 |Name:Quaranteam  |Pressed:A  |Seconds:8.72  |Question Points:1247  |Total:4625
+10/07/2020 8:30:28 PM|Quizzame|Question 6| ID:565  |Correct:A  |Keypad:6 |Name:The Bobcats  |Pressed:A  |Seconds:12.52  |Question Points:483  |Total:5547
+10/07/2020 8:30:29 PM|Quizzame|Question 6| ID:565  |Correct:A  |Keypad:2 |Name:DC  |Pressed:A  |Seconds:13.67  |Question Points:252  |Total:2799
+10/07/2020 8:31:30 PM|Quizzame|Question 7| ID:14455  |Correct:A  |Keypad:10 |Name:Father Knows Best  |Pressed:A  |Seconds:1.51  |Question Points:899  |Total:4874
+10/07/2020 8:31:33 PM|Quizzame|Question 7| ID:14455  |Correct:A  |Keypad:3 |Name:Rice Queens  |Pressed:A  |Seconds:3.69  |Question Points:753  |Total:3847
+10/07/2020 8:31:42 PM|Quizzame|Question 7| ID:14455  |Correct:A  |Keypad:7 |Name:ETC  |Pressed:A  |Seconds:12.65  |Question Points:152  |Total:4460
+10/07/2020 8:31:45 PM|Quizzame|Question 7 |ID:14455  |Correct:A  |Keypad:11 |Name:Quaranteam  |Pressed:B  |Seconds:16.39  |Question Points:0  |Total:4625
+10/07/2020 8:32:34 PM|Quizzame|Question 8| ID:8899  |Correct:E  |Keypad:3 |Name:Rice Queens  |Pressed:E  |Seconds:2.65  |Question Points:2467  |Total:6314
+10/07/2020 8:32:34 PM|Quizzame|Question 8 |ID:8899  |Correct:E  |Keypad:8 |Name:Trans-Houston  |Pressed:A  |Seconds:2.71  |Question Points:-1232  |Total:6961
+10/07/2020 8:32:34 PM|Quizzame|Question 8 |ID:8899  |Correct:E  |Keypad:10 |Name:Father Knows Best  |Pressed:A  |Seconds:3.15  |Question Points:-237.6  |Total:4874
+10/07/2020 8:32:34 PM|Quizzame|Question 8| ID:8899  |Correct:E  |Keypad:11 |Name:Quaranteam  |Pressed:E  |Seconds:3.18  |Question Points:2361  |Total:6986
+10/07/2020 8:32:35 PM|Quizzame|Question 8 |ID:8899  |Correct:E  |Keypad:4 |Name:Seven Up  |Pressed:C  |Seconds:4.3  |Question Points:-107.4  |Total:2927
+10/07/2020 8:32:43 PM|Quizzame|Question 8 |ID:8899  |Correct:E  |Keypad:6 |Name:The Bobcats  |Pressed:C  |Seconds:12.36  |Question Points:-138  |Total:5547
+10/07/2020 8:32:46 PM|Quizzame|Question 8 |ID:8899  |Correct:E  |Keypad:7 |Name:ETC  |Pressed:B  |Seconds:14.41  |Question Points:-14.6  |Total:4460
+10/07/2020 8:33:26 PM|Quizzame|Question 9| ID:4910  |Correct:E  |Keypad:11 |Name:Quaranteam  |Pressed:E  |Seconds:3.61  |Question Points:758  |Total:7744
+10/07/2020 8:33:26 PM|Quizzame|Question 9| ID:4910  |Correct:E  |Keypad:7 |Name:ETC  |Pressed:E  |Seconds:3.61  |Question Points:758  |Total:5203
+10/07/2020 8:33:27 PM|Quizzame|Question 9| ID:4910  |Correct:E  |Keypad:10 |Name:Father Knows Best  |Pressed:E  |Seconds:3.92  |Question Points:737  |Total:5373
+10/07/2020 8:33:27 PM|Quizzame|Question 9| ID:4910  |Correct:E  |Keypad:2 |Name:DC  |Pressed:E  |Seconds:4.21  |Question Points:718  |Total:3517
+10/07/2020 8:33:27 PM|Quizzame|Question 9 |ID:4910  |Correct:E  |Keypad:4 |Name:Seven Up  |Pressed:A  |Seconds:4.27  |Question Points:-35.9  |Total:2820
+10/07/2020 8:33:27 PM|Quizzame|Question 9 |ID:4910  |Correct:E  |Keypad:12 |Name:103  |Pressed:C  |Seconds:4.68  |Question Points:-3.46  |Total:0
+10/07/2020 8:33:28 PM|Quizzame|Question 9 |ID:4910  |Correct:E  |Keypad:8 |Name:Trans-Houston  |Pressed:C  |Seconds:4.95  |Question Points:-168.5  |Total:5729
+10/07/2020 8:33:31 PM|Quizzame|Question 9| ID:4910  |Correct:E  |Keypad:3 |Name:Rice Queens  |Pressed:E  |Seconds:8.48  |Question Points:432  |Total:6746
+10/07/2020 8:33:37 PM|Quizzame|Question 9| ID:4910  |Correct:E  |Keypad:6 |Name:The Bobcats  |Pressed:E  |Seconds:14.73  |Question Points:13  |Total:5422
+10/07/2020 8:34:16 PM|Quizzame|Question 10| ID:1772  |Correct:A  |Keypad:11 |Name:Quaranteam  |Pressed:A  |Seconds:1.36  |Question Points:2727  |Total:10471
+10/07/2020 8:34:16 PM|Quizzame|Question 10| ID:1772  |Correct:A  |Keypad:10 |Name:Father Knows Best  |Pressed:A  |Seconds:1.36  |Question Points:2727  |Total:8100
+10/07/2020 8:34:16 PM|Quizzame|Question 10| ID:1772  |Correct:A  |Keypad:2 |Name:DC  |Pressed:A  |Seconds:1.48  |Question Points:2703  |Total:6220
+10/07/2020 8:34:17 PM|Quizzame|Question 10| ID:1772  |Correct:A  |Keypad:8 |Name:Trans-Houston  |Pressed:A  |Seconds:2.13  |Question Points:2572  |Total:8132
+10/07/2020 8:34:18 PM|Quizzame|Question 10 |ID:1772  |Correct:A  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:C  |Seconds:3.88  |Question Points:-223.2  |Total:5246
+10/07/2020 8:34:19 PM|Quizzame|Question 10 |ID:1772  |Correct:A  |Keypad:7 |Name:ETC  |Pressed:C  |Seconds:4.19  |Question Points:-108.5  |Total:5203
+10/07/2020 8:34:25 PM|Quizzame|Question 10| ID:1772  |Correct:A  |Keypad:4 |Name:Seven Up  |Pressed:A  |Seconds:9.97  |Question Points:996  |Total:3780
+10/07/2020 8:34:27 PM|Quizzame|Question 10| ID:1772  |Correct:A  |Keypad:3 |Name:Rice Queens  |Pressed:A  |Seconds:12.65  |Question Points:457  |Total:7203
+10/07/2020 8:35:04 PM|Quizzame|Question 11 |ID:16679  |Correct:C  |Keypad:11 |Name:Quaranteam  |Pressed:A  |Seconds:1.53  |Question Points:-450  |Total:10471
+10/07/2020 8:35:07 PM|Quizzame|Question 11| ID:16679  |Correct:C  |Keypad:4 |Name:Seven Up  |Pressed:C  |Seconds:4.05  |Question Points:729  |Total:4509
+10/07/2020 8:35:08 PM|Quizzame|Question 11| ID:16679  |Correct:C  |Keypad:8 |Name:Trans-Houston  |Pressed:C  |Seconds:5.78  |Question Points:613  |Total:8745
+10/07/2020 8:35:11 PM|Quizzame|Question 11 |ID:16679  |Correct:C  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:A  |Seconds:8.1  |Question Points:-23.3  |Total:5023
+10/07/2020 8:35:11 PM|Quizzame|Question 11 |ID:16679  |Correct:C  |Keypad:10 |Name:Father Knows Best  |Pressed:A  |Seconds:8.47  |Question Points:-110  |Total:8100
+10/07/2020 8:35:18 PM|Quizzame|Question 11 |ID:16679  |Correct:C  |Keypad:7 |Name:ETC  |Pressed:D  |Seconds:14.82  |Question Points:-1.1  |Total:5094
+10/07/2020 8:35:52 PM|Quizzame|Question 12| ID:5854  |Correct:E  |Keypad:10 |Name:Father Knows Best  |Pressed:E  |Seconds:1.45  |Question Points:903  |Total:8893
+10/07/2020 8:35:52 PM|Quizzame|Question 12| ID:5854  |Correct:E  |Keypad:7 |Name:ETC  |Pressed:E  |Seconds:1.61  |Question Points:892  |Total:5985
+10/07/2020 8:35:53 PM|Quizzame|Question 12| ID:5854  |Correct:E  |Keypad:2 |Name:DC  |Pressed:E  |Seconds:2.27  |Question Points:848  |Total:7068
+10/07/2020 8:35:53 PM|Quizzame|Question 12| ID:5854  |Correct:E  |Keypad:11 |Name:Quaranteam  |Pressed:E  |Seconds:2.21  |Question Points:852  |Total:10873
+10/07/2020 8:35:53 PM|Quizzame|Question 12| ID:5854  |Correct:E  |Keypad:3 |Name:Rice Queens  |Pressed:E  |Seconds:2.86  |Question Points:808  |Total:8011
+10/07/2020 8:35:55 PM|Quizzame|Question 12| ID:5854  |Correct:E  |Keypad:4 |Name:Seven Up  |Pressed:E  |Seconds:4.32  |Question Points:711  |Total:5220
+10/07/2020 8:35:55 PM|Quizzame|Question 12 |ID:5854  |Correct:E  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:C  |Seconds:4.59  |Question Points:-34.9  |Total:5000
+10/07/2020 8:35:57 PM|Quizzame|Question 12| ID:5854  |Correct:E  |Keypad:8 |Name:Trans-Houston  |Pressed:E  |Seconds:6.81  |Question Points:544  |Total:9289
+10/07/2020 8:36:00 PM|Quizzame|Question 12| ID:5854  |Correct:E  |Keypad:6 |Name:The Bobcats  |Pressed:E  |Seconds:9.57  |Question Points:359  |Total:5781
+10/07/2020 8:44:33 PM|Quizzame|Question 1| ID:3911  |Correct:B  |Keypad:8 |Name:Trans-Houston  |Pressed:B  |Seconds:1.18  |Question Points:2763  |Total:23237
+10/07/2020 8:44:34 PM|Quizzame|Question 1| ID:3911  |Correct:B  |Keypad:7 |Name:ETC  |Pressed:B  |Seconds:1.8  |Question Points:2638  |Total:27926
+10/07/2020 8:44:34 PM|Quizzame|Question 1| ID:3911  |Correct:B  |Keypad:10 |Name:Father Knows Best  |Pressed:B  |Seconds:1.82  |Question Points:2634  |Total:29535
+10/07/2020 8:44:34 PM|Quizzame|Question 1| ID:3911  |Correct:B  |Keypad:2 |Name:DC  |Pressed:B  |Seconds:2.03  |Question Points:2592  |Total:30020
+10/07/2020 8:44:34 PM|Quizzame|Question 1 |ID:3911  |Correct:B  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:E  |Seconds:2.15  |Question Points:-1287  |Total:24843
+10/07/2020 8:44:35 PM|Quizzame|Question 1| ID:3911  |Correct:B  |Keypad:3 |Name:Rice Queens  |Pressed:B  |Seconds:2.46  |Question Points:2506  |Total:31813
+10/07/2020 8:44:35 PM|Quizzame|Question 1| ID:3911  |Correct:B  |Keypad:11 |Name:Quaranteam  |Pressed:B  |Seconds:2.48  |Question Points:2502  |Total:31272
+10/07/2020 8:44:35 PM|Quizzame|Question 1| ID:3911  |Correct:B  |Keypad:6 |Name:The Bobcats  |Pressed:B  |Seconds:3.24  |Question Points:2349  |Total:22994
+10/07/2020 8:44:38 PM|Quizzame|Question 1 |ID:3911  |Correct:B  |Keypad:4 |Name:Seven Up  |Pressed:E  |Seconds:5.95  |Question Points:-911  |Total:23560
+10/07/2020 8:45:16 PM|Quizzame|Question 2| ID:14729  |Correct:B  |Keypad:10 |Name:Father Knows Best  |Pressed:B  |Seconds:1.49  |Question Points:900  |Total:30435
+10/07/2020 8:45:17 PM|Quizzame|Question 2| ID:14729  |Correct:B  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:B  |Seconds:2.44  |Question Points:837  |Total:24393
+10/07/2020 8:45:17 PM|Quizzame|Question 2 |ID:14729  |Correct:B  |Keypad:8 |Name:Trans-Houston  |Pressed:A  |Seconds:2.75  |Question Points:-40.9  |Total:23237
+10/07/2020 8:45:18 PM|Quizzame|Question 2| ID:14729  |Correct:B  |Keypad:3 |Name:Rice Queens  |Pressed:B  |Seconds:3.76  |Question Points:748  |Total:32561
+10/07/2020 8:45:18 PM|Quizzame|Question 2| ID:14729  |Correct:B  |Keypad:11 |Name:Quaranteam  |Pressed:B  |Seconds:3.74  |Question Points:749  |Total:32021
+10/07/2020 8:45:23 PM|Quizzame|Question 2| ID:14729  |Correct:B  |Keypad:4 |Name:Seven Up  |Pressed:B  |Seconds:8.54  |Question Points:428  |Total:23077
+10/07/2020 8:45:25 PM|Quizzame|Question 2| ID:14729  |Correct:B  |Keypad:6 |Name:The Bobcats  |Pressed:B  |Seconds:10.42  |Question Points:302  |Total:23296
+10/07/2020 8:45:26 PM|Quizzame|Question 2| ID:14729  |Correct:B  |Keypad:2 |Name:DC  |Pressed:B  |Seconds:11.59  |Question Points:223  |Total:30243
+10/07/2020 8:45:27 PM|Quizzame|Question 2| ID:14729  |Correct:B  |Keypad:7 |Name:ETC  |Pressed:B  |Seconds:12.68  |Question Points:150  |Total:28076
+10/07/2020 8:46:38 PM|Quizzame|Question 3 |ID:15490  |Correct:A  |Keypad:8 |Name:Trans-Houston  |Pressed:B  |Seconds:3.52  |Question Points:-115.2  |Total:23196
+10/07/2020 8:46:39 PM|Quizzame|Question 3 |ID:15490  |Correct:A  |Keypad:3 |Name:Rice Queens  |Pressed:B  |Seconds:5.32  |Question Points:-973  |Total:32561
+10/07/2020 8:46:41 PM|Quizzame|Question 3| ID:15490  |Correct:A  |Keypad:11 |Name:Quaranteam  |Pressed:A  |Seconds:6.71  |Question Points:1651  |Total:33672
+10/07/2020 8:46:46 PM|Quizzame|Question 3 |ID:15490  |Correct:A  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:B  |Seconds:11.99  |Question Points:-62.6  |Total:24393
+10/07/2020 8:46:47 PM|Quizzame|Question 3 |ID:15490  |Correct:A  |Keypad:6 |Name:The Bobcats  |Pressed:D  |Seconds:12.96  |Question Points:-21.7  |Total:23296
+10/07/2020 8:47:30 PM|Quizzame|Question 4| ID:16685  |Correct:B  |Keypad:8 |Name:Trans-Houston  |Pressed:B  |Seconds:7.42  |Question Points:503  |Total:23584
+10/07/2020 8:47:30 PM|Quizzame|Question 4 |ID:16685  |Correct:B  |Keypad:4 |Name:Seven Up  |Pressed:E  |Seconds:7.5  |Question Points:-25.2  |Total:23077
+10/07/2020 8:47:33 PM|Quizzame|Question 4 |ID:16685  |Correct:B  |Keypad:2 |Name:DC  |Pressed:C  |Seconds:10.2  |Question Points:-32.6  |Total:30243
+10/07/2020 8:47:36 PM|Quizzame|Question 4 |ID:16685  |Correct:B  |Keypad:3 |Name:Rice Queens  |Pressed:E  |Seconds:13.5  |Question Points:-27  |Total:31588
+10/07/2020 8:47:38 PM|Quizzame|Question 4 |ID:16685  |Correct:B  |Keypad:11 |Name:Quaranteam  |Pressed:D  |Seconds:14.88  |Question Points:-9  |Total:33672
+10/07/2020 8:48:50 PM|Quizzame|Question 5| ID:15779  |Correct:ACEBD  |Keypad:2 |Name:DC  |Tasti:ACEBD  |Seconds:10.66  |Question Points:1721  |Total:31931
+10/07/2020 8:48:50 PM|Quizzame|Question 5| ID:15779  |Correct:ACEBD  |Keypad:3 |Name:Rice Queens  |Tasti:ACEBD  |Seconds:16.18  |Question Points:1058  |Total:32619
+10/07/2020 8:48:50 PM|Quizzame|Question 5 |ID:15779  |Correct:ACEBD  |Keypad:4 |Name:Seven Up  |Tasti:AEBDC  |Seconds:10.84  |Question Points:-85  |Total:23052
+10/07/2020 8:48:50 PM|Quizzame|Question 5| ID:15779  |Correct:ACEBD  |Keypad:5 |Name:SevenMinsInKevin  |Tasti:ACEBD  |Seconds:8.96  |Question Points:1925  |Total:26255
+10/07/2020 8:48:50 PM|Quizzame|Question 5| ID:15779  |Correct:ACEBD  |Keypad:6 |Name:The Bobcats  |Tasti:ACEBD  |Seconds:7.41  |Question Points:2111  |Total:25385
+10/07/2020 8:48:50 PM|Quizzame|Question 5| ID:15779  |Correct:ACEBD  |Keypad:7 |Name:ETC  |Tasti:ACEBD  |Seconds:13.14  |Question Points:1423  |Total:29499
+10/07/2020 8:48:50 PM|Quizzame|Question 5 |ID:15779  |Correct:ACEBD  |Keypad:8 |Name:Trans-Houston  |Tasti:ACBBD  |Seconds:11.38  |Question Points:-81.7  |Total:23584
+10/07/2020 8:48:50 PM|Quizzame|Question 5| ID:15779  |Correct:ACEBD  |Keypad:10 |Name:Father Knows Best  |Tasti:ACEBD  |Seconds:13  |Question Points:1440  |Total:31875
+10/07/2020 8:48:50 PM|Quizzame|Question 5| ID:15779  |Correct:ACEBD  |Keypad:11 |Name:Quaranteam  |Tasti:ACEBD  |Seconds:8.36  |Question Points:1997  |Total:35660
+10/07/2020 8:49:24 PM|Quizzame|Question 6 |ID:424  |Correct:D  |Keypad:8 |Name:Trans-Houston  |Pressed:C  |Seconds:4.29  |Question Points:-35.8  |Total:23502
+10/07/2020 8:49:25 PM|Quizzame|Question 6 |ID:424  |Correct:D  |Keypad:11 |Name:Quaranteam  |Pressed:B  |Seconds:4.91  |Question Points:-338  |Total:35660
+10/07/2020 8:49:26 PM|Quizzame|Question 6| ID:424  |Correct:D  |Keypad:2 |Name:DC  |Pressed:D  |Seconds:5.66  |Question Points:621  |Total:32552
+10/07/2020 8:49:27 PM|Quizzame|Question 6| ID:424  |Correct:D  |Keypad:10 |Name:Father Knows Best  |Pressed:D  |Seconds:6.71  |Question Points:550  |Total:32425
+10/07/2020 8:49:31 PM|Quizzame|Question 6| ID:424  |Correct:D  |Keypad:7 |Name:ETC  |Pressed:D  |Seconds:11.23  |Question Points:248  |Total:29747
+10/07/2020 8:49:31 PM|Quizzame|Question 6 |ID:424  |Correct:D  |Keypad:6 |Name:The Bobcats  |Pressed:C  |Seconds:11.65  |Question Points:-11.6  |Total:25385
+10/07/2020 8:49:32 PM|Quizzame|Question 6| ID:424  |Correct:D  |Keypad:4 |Name:Seven Up  |Pressed:D  |Seconds:11.8  |Question Points:209  |Total:23176
+10/07/2020 8:50:31 PM|Quizzame|Question 7| ID:2225  |Correct:D  |Keypad:2 |Name:DC  |Pressed:D  |Seconds:1.48  |Question Points:901  |Total:33453
+10/07/2020 8:50:33 PM|Quizzame|Question 7| ID:2225  |Correct:D  |Keypad:10 |Name:Father Knows Best  |Pressed:D  |Seconds:3.07  |Question Points:794  |Total:33219
+10/07/2020 8:50:33 PM|Quizzame|Question 7 |ID:2225  |Correct:D  |Keypad:7 |Name:ETC  |Pressed:A  |Seconds:3.19  |Question Points:-79  |Total:29747
+10/07/2020 8:50:37 PM|Quizzame|Question 7 |ID:2225  |Correct:D  |Keypad:8 |Name:Trans-Houston  |Pressed:A  |Seconds:7.15  |Question Points:-26.4  |Total:23466
+10/07/2020 8:50:42 PM|Quizzame|Question 7 |ID:2225  |Correct:D  |Keypad:11 |Name:Quaranteam  |Pressed:A  |Seconds:12.22  |Question Points:-97  |Total:35322
+10/07/2020 8:50:43 PM|Quizzame|Question 7| ID:2225  |Correct:D  |Keypad:6 |Name:The Bobcats  |Pressed:D  |Seconds:13.77  |Question Points:77  |Total:25450
+10/07/2020 8:51:59 PM|Quizzame|Question 8| ID:8696  |Correct:A  |Keypad:3 |Name:Rice Queens  |Pressed:A  |Seconds:1.4  |Question Points:2719  |Total:35338
+10/07/2020 8:52:00 PM|Quizzame|Question 8 |ID:8696  |Correct:A  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:E  |Seconds:3.11  |Question Points:-238.4  |Total:26255
+10/07/2020 8:52:01 PM|Quizzame|Question 8 |ID:8696  |Correct:A  |Keypad:8 |Name:Trans-Houston  |Pressed:C  |Seconds:3.44  |Question Points:-115.9  |Total:23440
+10/07/2020 8:52:04 PM|Quizzame|Question 8 |ID:8696  |Correct:A  |Keypad:4 |Name:Seven Up  |Pressed:D  |Seconds:6.95  |Question Points:-81.2  |Total:23176
+10/07/2020 8:52:05 PM|Quizzame|Question 8 |ID:8696  |Correct:A  |Keypad:11 |Name:Quaranteam  |Pressed:C  |Seconds:7.67  |Question Points:-741  |Total:35225
+10/07/2020 8:52:06 PM|Quizzame|Question 8 |ID:8696  |Correct:A  |Keypad:6 |Name:The Bobcats  |Pressed:E  |Seconds:9.13  |Question Points:-59.6  |Total:25450
+10/07/2020 8:52:09 PM|Quizzame|Question 8 |ID:8696  |Correct:A  |Keypad:7 |Name:ETC  |Pressed:E  |Seconds:11.86  |Question Points:-65.2  |Total:29668
+10/07/2020 8:52:10 PM|Quizzame|Question 8 |ID:8696  |Correct:A  |Keypad:2 |Name:DC  |Pressed:E  |Seconds:12.97  |Question Points:-108  |Total:33453
+10/07/2020 8:52:58 PM|Quizzame|Question 9 |ID:10224  |Correct:B  |Keypad:7 |Name:ETC  |Pressed:A  |Seconds:0.9  |Question Points:-94  |Total:29603
+10/07/2020 8:52:58 PM|Quizzame|Question 9| ID:10224  |Correct:B  |Keypad:2 |Name:DC  |Pressed:B  |Seconds:0.95  |Question Points:936  |Total:34281
+10/07/2020 8:52:58 PM|Quizzame|Question 9 |ID:10224  |Correct:B  |Keypad:8 |Name:Trans-Houston  |Pressed:A  |Seconds:1.39  |Question Points:-45.4  |Total:23324
+10/07/2020 8:52:58 PM|Quizzame|Question 9| ID:10224  |Correct:B  |Keypad:10 |Name:Father Knows Best  |Pressed:B  |Seconds:1.54  |Question Points:897  |Total:34116
+10/07/2020 8:52:58 PM|Quizzame|Question 9| ID:10224  |Correct:B  |Keypad:11 |Name:Quaranteam  |Pressed:B  |Seconds:1.66  |Question Points:889  |Total:35373
+10/07/2020 8:53:00 PM|Quizzame|Question 9 |ID:10224  |Correct:B  |Keypad:3 |Name:Rice Queens  |Pressed:A  |Seconds:3.36  |Question Points:-389  |Total:35338
+10/07/2020 8:53:00 PM|Quizzame|Question 9| ID:10224  |Correct:B  |Keypad:4 |Name:Seven Up  |Pressed:B  |Seconds:3.31  |Question Points:778  |Total:23873
+10/07/2020 8:53:10 PM|Quizzame|Question 9 |ID:10224  |Correct:B  |Keypad:6 |Name:The Bobcats  |Pressed:A  |Seconds:13.84  |Question Points:-4.3  |Total:25390
+10/07/2020 8:53:54 PM|Quizzame|Question 10| ID:9360  |Correct:E  |Keypad:10 |Name:Father Knows Best  |Pressed:E  |Seconds:1.76  |Question Points:2646  |Total:36762
+10/07/2020 8:53:54 PM|Quizzame|Question 10| ID:9360  |Correct:E  |Keypad:6 |Name:The Bobcats  |Pressed:E  |Seconds:1.85  |Question Points:2628  |Total:28014
+10/07/2020 8:53:55 PM|Quizzame|Question 10| ID:9360  |Correct:E  |Keypad:3 |Name:Rice Queens  |Pressed:E  |Seconds:2.43  |Question Points:2512  |Total:37461
+10/07/2020 8:53:55 PM|Quizzame|Question 10| ID:9360  |Correct:E  |Keypad:8 |Name:Trans-Houston  |Pressed:E  |Seconds:2.72  |Question Points:2453  |Total:25732
+10/07/2020 8:53:56 PM|Quizzame|Question 10| ID:9360  |Correct:E  |Keypad:2 |Name:DC  |Pressed:E  |Seconds:3.47  |Question Points:2303  |Total:36584
+10/07/2020 8:54:00 PM|Quizzame|Question 10| ID:9360  |Correct:E  |Keypad:7 |Name:ETC  |Pressed:E  |Seconds:8.07  |Question Points:1378  |Total:30887
+10/07/2020 8:54:02 PM|Quizzame|Question 10| ID:9360  |Correct:E  |Keypad:4 |Name:Seven Up  |Pressed:E  |Seconds:10.17  |Question Points:956  |Total:24829
+10/07/2020 8:54:03 PM|Quizzame|Question 10 |ID:9360  |Correct:E  |Keypad:11 |Name:Quaranteam  |Pressed:C  |Seconds:10.75  |Question Points:-436  |Total:35373
+10/07/2020 8:54:43 PM|Quizzame|Question 11| ID:2527  |Correct:B  |Keypad:6 |Name:The Bobcats  |Pressed:B  |Seconds:1.56  |Question Points:895  |Total:28909
+10/07/2020 8:54:43 PM|Quizzame|Question 11| ID:2527  |Correct:B  |Keypad:2 |Name:DC  |Pressed:B  |Seconds:1.57  |Question Points:895  |Total:37479
+10/07/2020 8:54:43 PM|Quizzame|Question 11| ID:2527  |Correct:B  |Keypad:11 |Name:Quaranteam  |Pressed:B  |Seconds:1.53  |Question Points:897  |Total:35834
+10/07/2020 8:54:43 PM|Quizzame|Question 11| ID:2527  |Correct:B  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:B  |Seconds:1.7  |Question Points:886  |Total:26903
+10/07/2020 8:54:43 PM|Quizzame|Question 11| ID:2527  |Correct:B  |Keypad:10 |Name:Father Knows Best  |Pressed:B  |Seconds:1.95  |Question Points:869  |Total:37631
+10/07/2020 8:54:43 PM|Quizzame|Question 11| ID:2527  |Correct:B  |Keypad:8 |Name:Trans-Houston  |Pressed:B  |Seconds:1.94  |Question Points:870  |Total:26602
+10/07/2020 8:54:44 PM|Quizzame|Question 11| ID:2527  |Correct:B  |Keypad:3 |Name:Rice Queens  |Pressed:B  |Seconds:2.29  |Question Points:847  |Total:38308
+10/07/2020 8:54:45 PM|Quizzame|Question 11| ID:2527  |Correct:B  |Keypad:7 |Name:ETC  |Pressed:B  |Seconds:4.12  |Question Points:724  |Total:31611
+10/07/2020 8:55:33 PM|Quizzame|Question 12| ID:14  |Correct:B  |Keypad:2 |Name:DC  |Pressed:B  |Seconds:1.2  |Question Points:1839  |Total:39318
+10/07/2020 8:55:33 PM|Quizzame|Question 12| ID:14  |Correct:B  |Keypad:5 |Name:SevenMinsInKevin  |Pressed:B  |Seconds:1.22  |Question Points:1837  |Total:28740
+10/07/2020 8:55:33 PM|Quizzame|Question 12| ID:14  |Correct:B  |Keypad:8 |Name:Trans-Houston  |Pressed:B  |Seconds:1.25  |Question Points:1832  |Total:28434
+10/07/2020 8:55:33 PM|Quizzame|Question 12| ID:14  |Correct:B  |Keypad:10 |Name:Father Knows Best  |Pressed:B  |Seconds:1.37  |Question Points:1816  |Total:39447
+10/07/2020 8:55:33 PM|Quizzame|Question 12| ID:14  |Correct:B  |Keypad:3 |Name:Rice Queens  |Pressed:B  |Seconds:1.23  |Question Points:1835  |Total:40143
+10/07/2020 8:55:35 PM|Quizzame|Question 12| ID:14  |Correct:B  |Keypad:4 |Name:Seven Up  |Pressed:B  |Seconds:3.26  |Question Points:1563  |Total:26392
+10/07/2020 8:55:35 PM|Quizzame|Question 12| ID:14  |Correct:B  |Keypad:7 |Name:ETC  |Pressed:B  |Seconds:3.93  |Question Points:1473  |Total:33084
+10/07/2020 8:55:37 PM|Quizzame|Question 12| ID:14  |Correct:B  |Keypad:6 |Name:The Bobcats  |Pressed:B  |Seconds:5.66  |Question Points:1242  |Total:30151
+10/07/2020 8:55:45 PM|Quizzame|Question 12| ID:14  |Correct:B  |Keypad:11 |Name:Quaranteam  |Pressed:B  |Seconds:13.32  |Question Points:215  |Total:36049
