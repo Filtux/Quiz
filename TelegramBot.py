@@ -177,7 +177,6 @@ def buzzerModifier(message):
   qf.ExitBuzzerManager()
   qf.returnToGo()
 
-
 @bot.message_handler(["mod"])
 def modify(message):
   teamScoreImage = pyscreenshot.grab(bbox=(0, 20, 260, 45))

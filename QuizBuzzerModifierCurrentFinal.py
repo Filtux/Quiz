@@ -5,15 +5,17 @@ import datetime
 #Apply score modifier right before scoreboards e.g. 0.9x/1.25x etc
 
 #Test file, need to figure a way of automatically selecting the venue you're playing at
-venueLogFile = r'C:\Users\Joe\Desktop\Log\Test Venue_Log.txt'
-buzzerToChange = "5 " #Keep space
+#venueLogFile = r'C:\Users\Joe\Desktop\Log\Test Venue_Log.txt'
+venueLogFile = r'C:\Program Files (x86)\QuizzaMePRO\Log\Test Venue_Log.txt'
+buzzerToChange = "2 " #Keep space
 currentSessionLog = []
 modifierAmount = 0.9
 
 #Delete these comments when not testing
 #currentStringDate = datetime.datetime.now()
 #currentStringDate = currentStringDate.strftime("%d" + "/" + "%m" + "/" + "%Y")
-currentStringDate = "10/07/2020"
+#currentStringDate = "10/07/2020"
+currentStringDate = '1/12/2021'
 
 currentStringTime = datetime.datetime.now()
 currentStringTime = currentStringTime.strftime("%I:%M")
