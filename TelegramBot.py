@@ -9,6 +9,8 @@ import pyautogui
 
 API_KEY = '5079172619:AAHCary8yVpgIOKcsxrJuQWv4h8ApxPhtww'
 
+pyautogui.PAUSE = 1
+
 bot = telebot.TeleBot(API_KEY)
 
 @bot.message_handler('Greet')
@@ -165,16 +167,20 @@ def screenshot(message):
   #image = open('liveTeamPosition.png', 'rb')
   bot.send_photo(message.chat.id, image)
 
+
 @bot.message_handler(['t'])
+
 def buzzerModifier(message):
   qb.periodicSessionGrab()
   grabbedPointsFromLog = qb.scan()
   qf.openBuzzerManager()
   qf.openBuzzer(1)
   pyautogui.press('enter') #skips the teamname screen
-  pyautogui.typewrite(grabbedPointsFromLog)
+  pyautogui.typewrite(str(grabbedPointsFromLog))
+  pyautogui.moveTo(975, 565) #Okay Button
+  pyautogui.leftClick()
   qf.saveMemoryOne()
-  qf.ExitBuzzerManager()
+  qf.exitBuzzerManager()
   qf.returnToGo()
 
 @bot.message_handler(["mod"])

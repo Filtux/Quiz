@@ -14,7 +14,7 @@ for line in originalData:
 
     for check, replace in zip(checkWords, repWords):
         line = str(line).replace(check, replace)
-        newFile.write(line)
+    newFile.write(line)
 
 originalFile.close()
 newFile.close()

@@ -1,11 +1,11 @@
 import re
 import os
 
-directory = r"C:\Users\Joe\Desktop\Log"
+directory = r"C:\\Program Files (x86)\\QuizzaMePRO\\Log\\"
 
 for fileName in os.listdir(directory):
     
-    file = r'C:\\Users\\Joe\\Desktop\\Log\\' + fileName
+    file = r'C:\\Program Files (x86)\\QuizzaMePRO\\Log\\' + fileName
 
     print(file)
 
@@ -15,7 +15,7 @@ for fileName in os.listdir(directory):
     originalFile = open(file, 'r')
     originalData = originalFile.readlines()
 
-    newFile = open(r'C:\\Users\\Joe\\Desktop\\Log\\' + fileName, 'w')
+    newFile = open(r'C:\\Program Files (x86)\\QuizzaMePRO\\Log\\' + fileName, 'w')
 
     for line in originalData:
 
