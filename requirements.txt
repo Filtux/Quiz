@@ -1,0 +1,11 @@
+python-telegram-bot==12.7
+os
+telebot
+QuizFunctions
+pyscreenshot
+ScreenShotQuestionNo
+QuizInitialTestLoad
+QuizBuzzerModifierCurrentFinal
+pyautogui
+ScreenShotQuestionNo
+flask
