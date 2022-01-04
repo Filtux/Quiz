@@ -147,30 +147,19 @@ def rem14(message):
 def rem15(message):
     qf.giveTeamPoints(15)
 
-
-
- 
-
 @bot.message_handler(['msf'])
 def makeSecondFirst(message):
   bot.reply_to(message, "msf")
   qf.makeSecondFirst()
 
-
 @bot.message_handler(["screenshot"])
 def screenshot(message):
   image = pyscreenshot.grab(bbox=(483, 107, 879, 561)) #set to quiz box parameters
-
   image.save("liveTeamPosition.png") #save it in a folder and +date to filename or something
-
-  image.save("liveTeamPosition.png") #save it in a folder and +date to filename or something
-
   #image = open('liveTeamPosition.png', 'rb')
   bot.send_photo(message.chat.id, image)
 
-
-@bot.message_handler(['t'])
-
+"""@bot.message_handler(['t'])
 def buzzerModifier(message):
   qb.periodicSessionGrab()
   grabbedPointsFromLog = qb.scan()
@@ -182,7 +171,7 @@ def buzzerModifier(message):
   pyautogui.leftClick()
   qf.saveMemoryOne()
   qf.exitBuzzerManager()
-  qf.returnToGo()
+  qf.returnToGo()"""
 
 @bot.message_handler(["modTEST"])
 def modifyTEST(message):

@@ -1,6 +1,7 @@
 import pyautogui
 import PySimpleGUI
 import time
+import re
 
 #pyautogui.PAUSE = 0.5
 # Keypad manager's buzzer number coordinates
@@ -94,16 +95,19 @@ def saveMemoryThree():
     pyautogui.moveTo(707, 442)
     pyautogui.click()
 
-def roundCheck():
-    with open(#venue log file) as file:
-        lineList = file.readLines()
-        if #Regex search for date not in lineList[-1]:
-            #Memory one
-        elif #Regex search for round two in lineList[-1]
-            #memory two
-        elif #Regex search for round three in lineList[-1]:
-            #memory three
-
+def roundCheckAndSave():
+    with open(r'C:\\PythonScripts\\Quiz\\Test Venue_Log.txt') as file:
+        lineList = file.readlines()
+        file.close()
+        print(lineList[-1])
+        if "ROUND 1" not in lineList[-1]:
+            return saveMemoryOne()
+        if "ROUND 2" in lineList[-1]:
+            return saveMemoryTwo()
+        if "ROUND 3" in lineList[-1]:
+            return saveMemoryThree()
+        if "ROUND 4" in lineList[-1]:
+            return saveMemoryOne()
 
 def exitBuzzerManager():
     pyautogui.moveTo(1037, 329)
@@ -122,7 +126,7 @@ def giveTeamPoints(buzzerNumber):
     openBuzzer(buzzerNumber)
     pyautogui.press('enter') #skips the teamname screen
     increase500Points()
-    saveMemoryOne()
+    roundCheckAndSave()
     exitBuzzerManager()
     returnToGo() #Will not click after
 
@@ -131,61 +135,9 @@ def removeTeamPoints(buzzerNumber):
     openBuzzer(buzzerNumber)
     pyautogui.press('enter') #skips the teamname screen
     decrease500Points()
-    saveMemoryOne()
+    roundCheckAndSave()
     exitBuzzerManager()
     returnToGo() #Will not click after
-
-"""
-def giveTeamPoints(buzzerNumber, memory):
-    openBuzzerManager()
-    openBuzzer(buzzerNumber)
-    pyautogui.press('enter') #skips the teamname screen
-    increase500Points()
-    if memory == "1":
-        saveMemoryOne()
-    elif memory == "2":
-        saveMemoryTwo()
-    elif memory == "3":
-        saveMemoryThree()
-    exitBuzzerManager()
-    returnToGo() #Will not click after
-
-def removeTeamPoints(buzzerNumber, memory):
-    openBuzzerManager()
-    openBuzzer(buzzerNumber)
-    pyautogui.press('enter') #skips the teamname screen
-    decrease500Points()
-    if memory == "1":
-        saveMemoryOne()
-    elif memory == "2":
-        saveMemoryTwo()
-    elif memory == "3":
-        saveMemoryThree()
-    exitBuzzerManager()
-    returnToGo() #Will not click after
-
-"""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 def removeTeamPoints(buzzerNumber):
     openBuzzerManager()
