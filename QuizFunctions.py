@@ -63,6 +63,7 @@ def clickCurrentTotal():
 def increase500Points():
     pyautogui.moveTo(1034, 208)
     pyautogui.leftClick()
+    pyautogui.leftClick() #Makes it 1000
     pyautogui.moveTo(975, 565) #Okay Button
     pyautogui.leftClick()
     return
@@ -75,6 +76,7 @@ def increasePoints(amount):
 def decrease500Points():
     pyautogui.moveTo(1034, 237)
     pyautogui.leftClick()
+    pyautogui.leftClick() #Makes it 1000
     pyautogui.moveTo(975, 565) #Okay Button
     pyautogui.leftClick()
     return

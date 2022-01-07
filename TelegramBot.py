@@ -149,7 +149,7 @@ def makeSecondFirst(message):
   bot.reply_to(message, "msf")
   qf.makeSecondFirst()
 
-@bot.message_handler(["screenshot"])
+@bot.message_handler(["ss"])
 def screenshot(message):
   qf.clickCurrentTotal()
   qf.returnToGo()
