@@ -7,27 +7,9 @@ import QuizInitialTestLoad as tl
 import QuizBuzzerModifierCurrentFinal as qb
 import pyautogui
 import ScreenShotQuestionNo as ss
-from flask import Flask, request
 
 TOKEN = '5079172619:AAHCary8yVpgIOKcsxrJuQWv4h8ApxPhtww'
 bot = telebot.TeleBot(TOKEN)
-server = Flask(__name__)
-
-@server.route('/' + TOKEN, methods=['POST'])
-def getMessage():
-    json_string = request.get_data().decode('utf-8')
-    update = telebot.types.Update.de_json(json_string)
-    bot.process_new_updates([update])
-    return "!", 200
-
-@server.route("/")
-def webhook():
-    bot.remove_webhook()
-    bot.set_webhook(url='https://warm-plateau-09315.herokuapp.com' + TOKEN)
-    return "!", 200
-
-if __name__ == "__main__":
-    server.run(host="0.0.0.0", port=int(os.environ.get('PORT', 5000)))
 
 @bot.message_handler('Greet')
 def greet(message):
@@ -104,63 +86,63 @@ def add15(message):
 
 @bot.message_handler(["rem1"])
 def rem1(message):
-    qf.giveTeamPoints(1)
+    qf.removeTeamPoints(1)
 
 @bot.message_handler(["rem2"])
 def add3(message):
-  qf.giveTeamPoints(2)
+  qf.removeTeamPoints(2)
 
 @bot.message_handler(["rem3"])
 def rem3(message):
-    qf.giveTeamPoints(3)
+    qf.removeTeamPoints(3)
 
 @bot.message_handler(["rem4"])
 def rem4(message):
-  qf.giveTeamPoints(4)
+  qf.removeTeamPoints(4)
 
 @bot.message_handler(["rem5"])
 def rem5(message):
-    qf.giveTeamPoints(5)
+    qf.removeTeamPoints(5)
 
 @bot.message_handler(["rem6"])
 def rem6(message):
-  qf.giveTeamPoints(6)
+  qf.removeTeamPoints(6)
 
 @bot.message_handler(["rem7"])
 def rem7(message):
-    qf.giveTeamPoints(7)
+    qf.removeTeamPoints(7)
 
 @bot.message_handler(["rem8"])
 def rem8(message):
-  qf.giveTeamPoints(8)
+  qf.removeTeamPoints(8)
 
 @bot.message_handler(["rem9"])
 def rem9(message):
-    qf.giveTeamPoints(9)
+    qf.removeTeamPoints(9)
 
 @bot.message_handler(["rem10"])
 def rem10(message):
-  qf.giveTeamPoints(10)
+  qf.removeTeamPoints(10)
 
 @bot.message_handler(["rem11"])
 def rem11(message):
-    qf.giveTeamPoints(11)
+    qf.removeTeamPoints(11)
 
 @bot.message_handler(["rem12"])
 def rem12(message):
-  qf.giveTeamPoints(12)
+  qf.removeTeamPoints(12)
 
 @bot.message_handler(["rem13"])
 def rem13(message):
-    qf.giveTeamPoints(13)
+    qf.removeTeamPoints(13)
 
 @bot.message_handler(["rem14"])
 def rem14(message):
-  qf.giveTeamPoints(14)
+  qf.removeTeamPoints(14)
 
 @bot.message_handler(["rem15"])
 def rem15(message):
-    qf.giveTeamPoints(15)
+    qf.removeTeamPoints(15)
 
 @bot.message_handler(['msf'])
 def makeSecondFirst(message):
@@ -169,11 +151,13 @@ def makeSecondFirst(message):
 
 @bot.message_handler(["screenshot"])
 def screenshot(message):
+  qf.clickCurrentTotal()
+  qf.returnToGo()
   image = pyscreenshot.grab(bbox=(483, 107, 879, 561)) #set to quiz box parameters
   image.save("liveTeamPosition.png") #save it in a folder and +date to filename or something
   #image = open('liveTeamPosition.png', 'rb')
   bot.send_photo(message.chat.id, image)
-
+  
 """@bot.message_handler(['t'])
 def buzzerModifier(message):
   qb.periodicSessionGrab()
@@ -212,6 +196,8 @@ def fastestFinger(message):
   qf.fastestFinger()
   qf.returnToGo()
 
+@bot.message_handler(["go"])
+def returnToGo(message):
+  qf.returnToGo()
 
-
-#bot.polling()
+bot.polling()
