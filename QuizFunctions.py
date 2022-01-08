@@ -75,6 +75,8 @@ def increasePoints(amount):
 def decrease500Points():
     pyautogui.moveTo(1034, 237)
     pyautogui.leftClick()
+    pyautogui.moveTo(975, 565) #Okay Button
+    pyautogui.leftClick()
     return
 
 def saveMemoryOne():
@@ -96,19 +98,20 @@ def saveMemoryThree():
     pyautogui.click()
 
 def roundCheckAndSave():
-    with open(r'C:\\PythonScripts\\Quiz\\Test Venue_Log.txt') as file:
+    with open(r'C:\Program Files (x86)\QuizzaMePRO\Log\\Payneham Tav_Log.txt') as file:
         lineList = file.readlines()
         file.close()
         print(lineList[-1])
-        if "ROUND 1" not in lineList[-1]:
-            return saveMemoryOne()
         if "ROUND 2" in lineList[-1]:
+            print("in round 2")
             return saveMemoryTwo()
         if "ROUND 3" in lineList[-1]:
+            print("in round 3")
             return saveMemoryThree()
-        if "ROUND 4" in lineList[-1]:
+        else:
+            print("reading round 1 or 4")
             return saveMemoryOne()
-
+        
 def exitBuzzerManager():
     pyautogui.moveTo(1037, 329)
     pyautogui.leftClick()
@@ -136,14 +139,6 @@ def removeTeamPoints(buzzerNumber):
     pyautogui.press('enter') #skips the teamname screen
     decrease500Points()
     roundCheckAndSave()
-    exitBuzzerManager()
-    returnToGo() #Will not click after
-
-def removeTeamPoints(buzzerNumber):
-    openBuzzerManager()
-    openBuzzer(buzzerNumber)
-    pyautogui.press('enter') #skips the teamname screen
-    decrease500Points()
     exitBuzzerManager()
     returnToGo() #Will not click after
 
