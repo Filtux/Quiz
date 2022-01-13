@@ -2,11 +2,11 @@ import os
 import telebot
 import QuizFunctions as qf
 import pyscreenshot
-import ScreenShotQuestionNo as ss
+import BackgroundBuzzerModifier as ss
 import QuizInitialTestLoad as tl
 import QuizBuzzerModifierCurrentFinal as qb
 import pyautogui
-import ScreenShotQuestionNo as ss
+import BackgroundBuzzerModifier as ss
 from flask import Flask, request
 
 TOKEN = '5079172619:AAHCary8yVpgIOKcsxrJuQWv4h8ApxPhtww'

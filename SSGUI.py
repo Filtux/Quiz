@@ -2,7 +2,7 @@ from PySide6.QtWidgets import *
 from PySide6.QtCore import *
 from PySide6.QtGui import *
 import sys
-import ScreenShotQuestionNo as SSQN
+import BackgroundBuzzerModifier as SSQN
 import re
 
 class Window(QMainWindow):

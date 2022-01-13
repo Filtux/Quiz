@@ -2,7 +2,7 @@ import os
 import telebot
 import QuizFunctions as qf
 import pyscreenshot
-import ScreenShotQuestionNo as ss
+import BackgroundBuzzerModifier as ss
 import QuizInitialTestLoad as tl
 import QuizBuzzerModifierCurrentFinal as qb
 import pyautogui
