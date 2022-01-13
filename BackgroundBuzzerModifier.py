@@ -11,16 +11,16 @@ pyt.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 def runModifierifQ5(buzzerNumber, multiplier):
 
   #Take screenshot of area
-  teamScoreImage = pyscreenshot.grab(bbox=(0, 20, 260, 45))
+  questionNumberImage = pyscreenshot.grab(bbox=(0, 22, 260, 47))
 
   #Save and overwrite previous to specified file path
-  teamScoreImage.save(r"C:\Users\Administrator\Desktop\Quiz\Quiz\CurrentQuestionNumber.png")
+  questionNumberImage.save(r"C:\Users\Administrator\Desktop\Quiz\Quiz\CurrentQuestionNumber.png")
 
   #Read image and save found text to string
-  textFromImage = pyt.image_to_string(r'C:\PythonScripts\Quiz\CurrentQuestionNumber.png')
-  #textFromImage = pyt.image_to_string(r'C:\Users\Administrator\Desktop\Quiz\Quiz\CurrentQuestionNumber.png')
+  #textFromImage = pyt.image_to_string(r'C:\PythonScripts\Quiz\CurrentQuestionNumber.png')
+  textFromImage = pyt.image_to_string(r'C:\Users\Administrator\Desktop\Quiz\Quiz\CurrentQuestionNumber.png')
 
-  if 'Question n. 5' in textFromImage:
+  if 'Question n. 1' in textFromImage:
 
       qf.openBuzzerManager()
       qf.openBuzzer(buzzerNumber)
@@ -34,6 +34,7 @@ verify = 'n'
 
 while verify == 'n':
 
+  print('verify is currently equalling n')
   buzzerNumber = input("Enter the buzzer number to add modifier to: ")
   multiplier = input("Enter the multiplier as a decimal (x.x): ")
   print("You want to add a " + multiplier + " multiplier to buzzer " + buzzerNumber)
@@ -42,5 +43,8 @@ while verify == 'n':
 if verify.lower() == 'y':
   print("Multiplier running in background...")
   while True:
-    time.sleep(30)
+    print("In True Loop")
+    time.sleep(5)
     runModifierifQ5(buzzerNumber, multiplier)
+    print("Reading: " + pyt.image_to_string(r'C:\Users\Administrator\Desktop\Quiz\Quiz\CurrentQuestionNumber.png'))
+    time.sleep(10)
