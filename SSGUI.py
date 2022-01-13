@@ -71,9 +71,11 @@ class Window(QMainWindow):
         buzzerChoice = self.combo_box.currentText()
         self.label.setText("Buzzer: " + buzzerChoice)
         buzzerChoice = re.search('\d{1,2}', buzzerChoice).group()
+        print("buzzerchoice is: " + buzzerChoice)
         
         multiplierChoice = self.multiplierInput.text()
         self.label2.setText(multiplierChoice)
+        print("Multiplier is: " + multiplierChoice)
         
         SSQN.runModifierifQ5(buzzerChoice, multiplierChoice)
 
