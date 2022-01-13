@@ -1,0 +1,27 @@
+1641279234346	geckodriver	INFO	Listening on 127.0.0.1:51150
+1641279237419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51151" "-no-remote" "-profile" "C:\\Users\\Joe\\AppData\\Local\\Temp\\rust_mozprofilezWvnwo"
+1641279238225	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joe\\AppData\\Local\\Temp\\rust_mozprofilezWvnwo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51151/devtools/browser/70b15012-e96b-481b-9bb6-de918c524b16
+1641279242603	Marionette	INFO	Listening on port 51156
+1641279242768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641279251583	Marionette	INFO	Stopped listening on port 51156
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641279915674	geckodriver	INFO	Listening on 127.0.0.1:51306
+1641279918763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51307" "-no-remote" "-profile" "C:\\Users\\Joe\\AppData\\Local\\Temp\\rust_mozprofile343WUf"
+1641279919399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joe\\AppData\\Local\\Temp\\rust_mozprofile343WUf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51307/devtools/browser/e9a44fbd-2f20-43a8-a469-8a9683d56304
+1641279922516	Marionette	INFO	Listening on port 51313
+1641279922962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session

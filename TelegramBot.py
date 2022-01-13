@@ -6,7 +6,6 @@ import ScreenShotQuestionNo as ss
 import QuizInitialTestLoad as tl
 import QuizBuzzerModifierCurrentFinal as qb
 import pyautogui
-import ScreenShotQuestionNo as ss
 
 TOKEN = '5079172619:AAHCary8yVpgIOKcsxrJuQWv4h8ApxPhtww'
 bot = telebot.TeleBot(TOKEN)
@@ -196,11 +195,8 @@ def fastestFinger(message):
   qf.fastestFinger()
   qf.returnToGo()
 
-<<<<<<< HEAD
-=======
 @bot.message_handler(["go"])
 def returnToGo(message):
   qf.returnToGo()
 
->>>>>>> 769751e1cfb1a1e3e76707f99c7e37987ad2dff9
 bot.polling()

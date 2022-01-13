@@ -5,8 +5,8 @@ import datetime
 #Apply score modifier right before scoreboards e.g. 0.9x/1.25x etc
 
 #Test file, need to figure a way of automatically selecting the venue you're playing at
-#venueLogFile = r'C:\Users\Joe\Desktop\Log\Test Venue_Log.txt'
-venueLogFile = r'C:\Program Files (x86)\QuizzaMePRO\Log\Test Venue_Log.txt'
+venueLogFile = r'C:\PythonScripts\Quiz\Test Venue_Log.txt'
+#venueLogFile = r'C:\Program Files (x86)\QuizzaMePRO\Log\Test Venue_Log.txt'
 buzzerToChange = "2 " #Keep space
 currentSessionLog = []
 modifierAmount = 0.9
