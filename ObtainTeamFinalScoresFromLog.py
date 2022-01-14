@@ -59,9 +59,10 @@ def returnTeamNames(currentSessionLog):
 
 teamNameList = returnTeamNames(createCurrentSessionLog())
 
-for name in teamNameList:
-    
-    with open(outputFile, 'w') as log:
+with open(outputFile, 'w') as log:
+
+    for name in teamNameList:
+
         log.write(name + '\n')
         print(name)
 
