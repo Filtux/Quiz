@@ -110,6 +110,9 @@ def roundCheckAndSave():
         if "ROUND 3" in lineList[-1]:
             print("in round 3")
             return saveMemoryThree()
+        if 'NTTX' in lineList[-1]:
+            print("in NTT")
+            return saveMemoryTwo()
         else:
             print("reading round 1 or 4")
             return saveMemoryOne()
