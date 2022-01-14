@@ -7,7 +7,6 @@ import pyperclip
 import math
 import time
 from PIL import Image
-import mouse
 
 
 pyt.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
@@ -27,8 +26,10 @@ def screenshotandReadQuestionNo():
   textFromImage1 = pyt.image_to_string(r'C:\Users\Administrator\Desktop\Quiz\Quiz\CurrentQuestionNumber.png')
 
   if 'Question n. 5' in textFromImage1:
-    return found == True
+    print("Found")
+    return True
 
+  return False
 
 def screenshotandReadDelPoints():
   #Take screenshot of area
@@ -45,18 +46,11 @@ def screenshotandReadDelPoints():
   textFromImage2 = pyt.image_to_string(r'C:\Users\Administrator\Desktop\Quiz\Quiz\viewOfButton.png')
 
   if 'Delete' in textFromImage2:
-    return buttonAppeared == True
+    print("Detected delete in current textFromImage2 file")
+    return True
+  return False
 
 def runModifierifQ5(buzzerNumber, multiplier):
-
-  #Read image and save found text to string
-  #textFromImage = pyt.image_to_string(r'C:\PythonScripts\Quiz\CurrentQuestionNumber.png')
-  textFromImage1 = pyt.image_to_string(r'C:\Users\Administrator\Desktop\Quiz\Quiz\CurrentQuestionNumber.png')
-  textFromImage2 = pyt.image_to_string(r'C:\Users\Administrator\Desktop\Quiz\Quiz\viewOfButton.png')
-
-  if 'Question n. 5' in textFromImage1:
-
-    if 'Delete' in textFromImage2:
 
       time.sleep(3)
       qf.openBuzzerManager()
@@ -88,13 +82,14 @@ if verify.lower() == 'y':
   found = False
   while found == False:
     print("Searching for Question 5")
-    time.sleep(5)
-    screenshotandReadQuestionNo()
-
+    found = screenshotandReadQuestionNo()
+    time.sleep(10)
+    
   buttonAppeared = False
   while buttonAppeared == False:
     print("Waiting for button to appear")
-    screenshotandReadDelPoints()
     time.sleep(2)
+    buttonAppeared = screenshotandReadDelPoints()
 
+  print("Button has appeared")
   runModifierifQ5(int(buzzerNumber), float(multiplier))
