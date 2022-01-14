@@ -1,4 +1,3 @@
-from turtle import right
 import pyscreenshot
 import pytesseract as pyt
 import QuizFunctions as qf
