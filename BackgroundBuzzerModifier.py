@@ -9,9 +9,6 @@ from PIL import Image
 
 pyt.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
-#
-path = r'C:\\PythonScripts\\Quiz\\QuestionShot1\\'
-
 def runModifierifQ5(buzzerNumber, multiplier):
 
   #Take screenshot of area
@@ -38,6 +35,11 @@ def runModifierifQ5(buzzerNumber, multiplier):
       modifiedValue = int(pyperclip.paste()) * multiplier
       print(modifiedValue)
       pyautogui.typewrite(str(math.floor(modifiedValue)))
+      pyautogui.moveTo(975, 565) #Okay Button
+      pyautogui.leftClick()
+      qf.roundCheckAndSave()
+      qf.exitBuzzerManager()
+      qf.returnToGo() #Will not click after
 
 verify = 'n'
 
@@ -54,6 +56,6 @@ if verify.lower() == 'y':
   while True:
     print("In True Loop")
     time.sleep(5)
-    runModifierifQ5(buzzerNumber, multiplier)
+    runModifierifQ5(int(buzzerNumber), float(multiplier))
     print("Reading: " + pyt.image_to_string(r'C:\Users\Administrator\Desktop\Quiz\Quiz\CurrentQuestionNumber.png'))
     time.sleep(10)
