@@ -5,8 +5,12 @@ import pyautogui
 import pyperclip
 import math
 import time
+from PIL import Image
 
 pyt.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+
+#
+path = r'C:\\PythonScripts\\Quiz\\QuestionShot1\\'
 
 def runModifierifQ5(buzzerNumber, multiplier):
 
@@ -15,6 +19,11 @@ def runModifierifQ5(buzzerNumber, multiplier):
 
   #Save and overwrite previous to specified file path
   questionNumberImage.save(r"C:\Users\Administrator\Desktop\Quiz\Quiz\CurrentQuestionNumber.png")
+
+  #Necessary resizing and increase of DPI for pyTesseract to read
+  image = Image.open(r'C:\Users\Administrator\Desktop\Quiz\Quiz\CurrentQuestionNumber.png')
+  image = image.resize((520, 50))
+  image.save(r'C:\Users\Administrator\Desktop\Quiz\Quiz\CurrentQuestionNumber.png', dpi=((600,600)))
 
   #Read image and save found text to string
   #textFromImage = pyt.image_to_string(r'C:\PythonScripts\Quiz\CurrentQuestionNumber.png')
