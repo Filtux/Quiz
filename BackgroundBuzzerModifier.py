@@ -29,6 +29,10 @@ def screenshotandReadQuestionNo():
     print("Found")
     return True
 
+  if 'Question n. 11' in textFromImage1:
+    print("Found")
+    return True
+
   return False
 
 def screenshotandReadDelPoints():
@@ -52,7 +56,7 @@ def screenshotandReadDelPoints():
 
 def runModifierifQ5(buzzerNumber, multiplier):
 
-      time.sleep(3)
+      time.sleep(2)
       qf.openBuzzerManager()
       qf.openBuzzer(buzzerNumber)
       pyautogui.press('enter') #skips the teamname screen
