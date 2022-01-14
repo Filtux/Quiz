@@ -13,10 +13,10 @@ currentSessionLog = []
 modifierAmount = 0.9
 
 #Delete these comments when not testing
-#currentStringDate = datetime.datetime.now()
-#currentStringDate = currentStringDate.strftime("%d" + "/" + "%m" + "/" + "%Y")
+currentStringDate = datetime.datetime.now()
+currentStringDate = currentStringDate.strftime("%d" + "/" + "%m" + "/" + "%Y")
 #currentStringDate = "10/07/2020"
-currentStringDate = "24/11/2021"
+#currentStringDate = "24/11/2021"
 
 #Creates temporary logfile of all entries matching current date
 def createCurrentSessionLog():
