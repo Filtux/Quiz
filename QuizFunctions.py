@@ -1,5 +1,4 @@
 import pyautogui
-import PySimpleGUI
 import time
 import re
 
